@@ -1,7 +1,7 @@
 ---
 name: competitive-watch-agent
 description: Раз на тиждень проганяє `competitor-site-watch` по всіх конкурентах з wiki/competitors/index.md, зводить знайдені зміни в один короткий weekly-бриф і додає нову колонку з текстовими інсайтами + мокапом ключових змін на ОДНУ накопичувальну Figma-дошку (не новий файл щотижня), щоб тижні можна було порівнювати між собою. Використовуй, коли просять "запусти competitive watch agent", "зроби тижневий бриф по конкурентах", або коли спрацьовує запланований щотижневий запуск. Не для одноразової перевірки одного конкурента (це `competitor-site-watch` напряму) і не для генерації реклами на основі конкурентів (це `ad-creative-agent`).
-tools: Read, Grep, Glob, Write, Edit, Bash, Skill, WebFetch, WebSearch, mcp__claude_ai_Figma__use_figma, mcp__claude_ai_Figma__create_new_file, mcp__claude_ai_Figma__get_screenshot
+tools: Read, Grep, Glob, Write, Edit, Bash, Skill, WebFetch, WebSearch, mcp__Figma__use_figma, mcp__Figma__create_new_file, mcp__Figma__get_screenshot
 model: opus
 ---
 

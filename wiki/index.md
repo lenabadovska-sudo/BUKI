@@ -24,10 +24,10 @@ Last updated: 2026-09-13
 ## Конкуренти
 
 - [competitors/index.md](competitors/index.md) — індекс живого спостереження за конкурентами
-- [competitors/preply.md](competitors/preply.md) — Preply, append-only лог (global + Польща), unicorn-раунд $1,2 млрд (січень 2026)
-- [competitors/superprof.md](competitors/superprof.md) — Superprof, append-only лог (Польща), підписка + опційна комісія 10%
+- [competitors/preply.md](competitors/preply.md) — Preply, append-only лог (global + Польща): unicorn-раунд $1,2 млрд (січень 2026), AI-фічі на OpenAI, протистояння з Duolingo
+- [competitors/superprof.md](competitors/superprof.md) — Superprof, append-only лог (Польща): підписка 59 zł/міс + опційна комісія 10%, серійний консолідатор (21 поглинання, Tutors.com 09.2026)
 - [competitors/media-monitoring.md](competitors/media-monitoring.md) — щоденний медіамоніторинг нових згадок BUKI/Preply/Superprof/Mathema/AllRight/Znohub/Tutlo в новинах, соцмережах, на сайтах відгуків
-- [competitors/reviews/2026-09-13-weekly-brief.md](competitors/reviews/2026-09-13-weekly-brief.md) — тижневий бриф 13.09: перший запуск `competitive-watch-agent` даних не дав (немає skill'а, домени заблоковані) + план розблокування
+- [competitors/reviews/2026-09-13-weekly-brief.md](competitors/reviews/2026-09-13-weekly-brief.md) — тижневий бриф 13.09: зміни в обох конкурентів (Superprof купив Tutors.com; Preply вивів AI у продукт). Топ-1 інсайт — конкуренти зайняли обидва полюси «AI vs людяність»
 
 ## Креативи
 
