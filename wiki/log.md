@@ -92,3 +92,14 @@ Git-репозиторій для цього проєкту ще не ініці
 - `.claude/agents/ad-creative-agent.md` — крок 0 (Figma замість "Hackfield MCP, якого нема"), крок 6 (production feasibility = чи збирається макет у Figma), крок 8 (макет через `use_figma` лише після підтвердження, з дотриманням `/figma-use` skill), tools у frontmatter (додано `mcp__claude_ai_Figma__use_figma`, `create_new_file`, `get_screenshot`)
 
 Незакрите (не змінилось): Meta Ad Library MCP і джерело даних воронки все ще не підключені — користувач не впевнений, чи є вже Facebook Developer App/access token; це наступний крок.
+
+## 2026-09-13 — щоденний медіамоніторинг (автоматизований запуск)
+
+Перший запуск нового щоденного медіамоніторингу (WebSearch, укр./пол./англ. запити) по брендах BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). **Нових згадок за останні 24–48 год не знайдено** — лист на пошту не надсилався (за протоколом задачі).
+
+Створено:
+- `wiki/competitors/media-monitoring.md` — новий append-only лог, окремий від `preply.md`/`superprof.md` (ті — глибокий розбір одного конкурента через `competitor-site-watch`; цей — щоденний широкий скан згадок по всіх брендах)
+
+Оновлено:
+- `wiki/competitors/index.md` — додано рядок про `media-monitoring.md`
+- `wiki/index.md` — додано опис сторінки в розділ "Конкуренти"
