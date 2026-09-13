@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "deny": [
+      "Edit(raw/**)",
+      "Write(raw/**)",
+      "MultiEdit(raw/**)",
+      "NotebookEdit(raw/**)"
+    ],
+    "allow": [
+      "Read(raw/**)",
+      "Read(wiki/**)",
+      "Edit(wiki/**)",
+      "Write(wiki/**)",
+      "Edit(artifacts/**)",
+      "Write(artifacts/**)",
+      "Bash(ls:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)",
+      "Bash(rg:*)",
+      "Bash(git:*)",
+      "Bash(gh:*)"
+    ]
+  }
+}

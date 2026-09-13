@@ -1,0 +1,13 @@
+# системне і службове
+.DS_Store
+.claude/settings.local.json
+node_modules/
+*.log
+
+# медіа — не для git (важке, не діф-ається; живе в artifacts/ на диску)
+*.mp4
+*.mov
+*.avi
+*.mp3
+*.wav
+*.zip
