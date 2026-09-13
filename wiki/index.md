@@ -11,12 +11,15 @@ Last updated: 2026-09-13
 - [overview.md](overview.md) — бізнес-контекст: хто ми, що продаємо (BUKI / BUKI School / BUKI Care), аудиторія, масштаб, бізнес-амбіція 2026, стратегічний напрямок
 - [now.md](now.md) — поточний операційний фокус, KPI-цілі 2026 і больові точки
 - [context.md](context.md) — об'єднаний бриф: бренд-стратегія й аудиторія (3 PDF-джерела) + growth-модель і канальні KPI 2026 (ліди, paid, SEO, brand, supply); злиття `buki-context-brief.md` + `buki-master-marketing-context-2026.md` від 2026-09-13
+- [tone-of-voice.md](tone-of-voice.md) — бренд-неймінг BUKI, позиціонування, географічна нейтральність, термінологія + ядро ToV продуктової/сервісної комунікації
+- [tone-of-voice-buki-school.md](tone-of-voice-buki-school.md) — детальні правила ToV BUKI School: неймінг, заборонені повідомлення, обов'язковий підпис, списки «наші/не наші слова»
 - [growth-model.md](growth-model.md) — формула росту компанії, North Star, 6 питань перед ініціативою, аналітика як інфраструктура
 - [paid-acquisition.md](paid-acquisition.md) — цілі paid acquisition по UA/PL і підхід AD→LANDING→SEARCH/MATCH→LEAD→STUDENT
 - [supply-marketing.md](supply-marketing.md) — найм викладачів: ціль, CAC-ліміт, поточні ініціативи
 - [seo-brand.md](seo-brand.md) — SEO-позиції, brand demand KPI, соцмережі, brand transformation, BUKI vs AI
 - [pr-strategy.md](pr-strategy.md) — роль PR, ключові території, як вимірювати PR
 - [insights.md](insights.md) — синтезовані інсайти поза основним брифом: позиція керівництва про вплив ШІ на цінність репетиторства, узгоджена з «ВЧИ ДО МЕТИ»
+- [team.md](team.md) — оргструктура команди BUKI Group: посади, підпорядкування, локації (без контактних даних)
 
 ## Конкуренти
 
