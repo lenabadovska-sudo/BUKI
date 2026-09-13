@@ -15,7 +15,7 @@ Last updated: 2026-09-13
 
 > ⚠️ Записи від 2026-09-13 отримані **виключно через WebSearch**. Прямий site-diff не виконувався: `preply.com` і `www.superprof.pl` віддають `EGRESS_BLOCKED` на рівні мережевого проксі сесії (розблокувати allowlist може лише користувач). Тому в цих записах ніде не стоїть «без змін» — лише «зміна підтверджена» або «перевірку не виконано». Деталі — у [reviews/2026-09-13-weekly-brief.md](reviews/2026-09-13-weekly-brief.md).
 
-Insights board (Figma): **ще не створено** — блокує namespace mismatch у `.claude/agents/competitive-watch-agent.md`: у полі `tools:` вказано префікс `mcp__claude_ai_Figma__`, тоді як фактичний MCP-сервер у сесії має namespace `mcp__Figma__`. Через це агенту не пропускається жоден Figma-інструмент. Фікс — замінити префікс у frontmatter; після цього наступний запуск створить дошку й підставить лінк сюди. Стоп-геп-сітка «конкурент × тиждень» у markdown — у [reviews/2026-09-13-weekly-brief.md](reviews/2026-09-13-weekly-brief.md).
+Insights board (Figma): [BUKI Competitive Watch — Insights Board](https://www.figma.com/design/EYyAK9JeEkWQkbmNtuvcSS) — накопичувальна дошка створена (перша колонка 2026-09-13), namespace-фікс (`mcp__claude_ai_Figma__` → `mcp__Figma__`) вже застосований у `.claude/agents/competitive-watch-agent.md`. Стоп-геп-сітка в markdown нижче в [reviews/2026-09-13-weekly-brief.md](reviews/2026-09-13-weekly-brief.md) лишається як довідка — дошка тепер основне джерело.
 
 Окремо — [media-monitoring.md](media-monitoring.md): щоденний широкий скан нових медіа-згадок одразу по всіх брендах (BUKI, Preply, Superprof, Mathema, AllRight, Znohub/Tutlo), а не глибокий розбір одного конкурента.
 
