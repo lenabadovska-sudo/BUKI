@@ -61,6 +61,8 @@ Business Key Results 2026 (source: buki-master-marketing-context-2026.md):
 
 * [Preply](competitors/preply.md) — глобальний маркетплейс репетиторів, unicorn-статус (Series D $150M, оцінка $1,2 млрд, січень 2026), комісія 18–33% з учня
 * [Superprof](competitors/superprof.md) — підписка учня (Karta Ucznia, 49–59 zł/міс) + опційна комісія 10%, ставка на широту предметів
+* [GoStudent](competitors/gostudent.md) — глобальний unicorn (Австрія), K-12 репетиторство, підписка за пакетом уроків, valuation ~$3.21B (needs verification)
+* [Tutlo](competitors/tutlo.md) — польська онлайн-школа англійської (монопродукт, не мультипредметний маркетплейс), ціна за урок від 29 zł/20 хв, індивідуальна оцінка після консультації
 
 Детальніше, з поточними записами й датами перевірок — [competitors/index.md](competitors/index.md).
 

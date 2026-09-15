@@ -4,7 +4,7 @@ Summary: Індекс конкурентів, за якими ведеться �
 
 Sources: WebFetch/WebSearch перевірки через `competitor-site-watch` skill.
 
-Last updated: 2026-09-13
+Last updated: 2026-09-15
 
 ---
 
@@ -12,6 +12,8 @@ Last updated: 2026-09-13
 |---|---|---|---|
 | Preply | [preply.md](preply.md) | Global / Польща | 2026-09-13 |
 | Superprof | [superprof.md](superprof.md) | Польща | 2026-09-13 |
+| GoStudent | [gostudent.md](gostudent.md) | Global (Австрія, K-12) | 2026-09-15 |
+| Tutlo | [tutlo.md](tutlo.md) | Польща (тільки англійська) | 2026-09-15 |
 
 > ⚠️ Записи від 2026-09-13 отримані **виключно через WebSearch**. Прямий site-diff не виконувався: `preply.com` і `www.superprof.pl` віддають `EGRESS_BLOCKED` на рівні мережевого проксі сесії (розблокувати allowlist може лише користувач). Тому в цих записах ніде не стоїть «без змін» — лише «зміна підтверджена» або «перевірку не виконано». Деталі — у [reviews/2026-09-13-weekly-brief.md](reviews/2026-09-13-weekly-brief.md).
 
