@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-09-14
+Last updated: 2026-09-15
 
 ---
 
@@ -37,6 +37,18 @@ Last updated: 2026-09-14
 Інші перевірені й виключені як не нові/нерелевантні: дослідження Preply "learners switched from self-learning app" (прес-реліз 2026-08-04, вже виключалось 2026-09-13); Superprof — жодної датованої M&A/funding-новини після 21-ї аквізиції (Tutors.com, вже залоговано 2026-09-13), пошукові "сигнали" про баг-фікси/підписки Superprof виявились нефактурними (без перевірюваного джерела чи дати — не логовано); листикли BUKI в TOP-5/6 на interia.pl та rankingedukacji.pl — той самий evergreen-контент, що й у попередніх перевірках; відгуки на Trustpilot/Otzovik про BUKI — без нових дат, той самий корпус скарг (незручний профіль, сповіщення, складно видалити акаунт), що вже відомий з context.md (source: context.md).
 
 Додаткові джерела цієї перевірки: buki.com.ua, buki.org.pl, buki-kz.com, toneto.net, trustpilot.com, otzovik.com, otzyvua.net, preply.com, tracxn.com, pitchbook.com, prnewswire.com, wellfound.com, trysignalbase.com, vestbee.com, crunchbase.com, globenewswire.com, uk.finance.yahoo.com, myengineeringbuddy.com, mathema.me, mathcorporation.com, cererra.com, znohub.online, osvita.ua, znayshov.com, 44.ua, tutlo.com, hello.tutlo.com, expressbydgoski.pl, rmf.fm, edukacja.dziennik.pl, mojaszkola.dziennik.pl, rankingedukacji.pl, korepetytor.ai, tutoringplatform.pl, rankingszkoljezykowych.pl.
+
+## [2026-09-15] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок (за останні ~24–48 год) брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща) — у новинах, на форумах, в соцмережах, на сайтах відгуків. Додатково перевірено точкові запити на фінансування/M&A/партнерства (Preply, Superprof) і відгуки/скарги (BUKI, форуми).
+
+**Результат: нових датованих згадок за останні 24–48 год не знайдено.**
+
+Найближче до "нового" — новина про **UOKiK (польський регулятор захисту прав споживачів) висунув звинувачення Tutlo** через незрозумілі умови розірвання контракту (штраф до 10% річного обороту). Перевірено дату: розслідування відкрито 2024-12-09, самі звинувачення висунуто **2025-02-11** (source: [uokik.gov.pl](https://uokik.gov.pl/en/a-costly-lesson-from-tutlo-president-of-uokik-presses-charges)), польські медіа (rp.pl, tabletowo.pl, bizblog.spidersweb.pl, mycompanypolska.pl, mamstartup.pl, dwakwadranse.pl) переповідали цю новину пізніше, найсвіжіше згадування — оновлення від 2025-08-24; жодної публікації в вікні 24–48 год немає — **не залоговано як нова згадка**, хоча сам кейс (репутаційний ризик конкурента на ринку PL через регуляторний тиск щодо прозорості умов) вартий уваги для [pr-strategy.md](../pr-strategy.md) і для контрасту з больовою точкою BUKI "оплата вимагається до підтвердження реального початку занять" (source: context.md) — конкурент отримав штраф за схожий тип непрозорості.
+
+Інші перевірені й виключені як не нові/нерелевантні: TutorFair acquired by Superprof (Instagram-пост 2022 року, історичний, спливає в пошуку через ключові слова); Superprof×Profes.com.br M&A (08.06.2026, вже відомо з попередніх записів); Preply Series D $150M (січень 2026, вже залоговано в [preply.md](preply.md)); листикли BUKI в TOP-5/6 на interia.pl — той самий evergreen-контент, що й у попередніх перевірках; відгуки на Trustpilot/Otzovik/otzyvua.net про BUKI — той самий корпус скарг 2023–2025 (незручний профіль, довгі відповіді, неможливість видалити акаунт), без нових дат; Reddit/форумні скарги на Preply/Superprof — загальні порівняльні статті без конкретних дат чи прив'язки до BUKI.
+
+Додаткові джерела цієї перевірки: buki.com.ua, buki.org.pl, bukischool.com.pl, trustpilot.com, otzovik.com, otzyvua.net, toneto.net, wydarzenia.interia.pl, pomaturze.pl, preply.com, pitchbook.com, eu-startups.com, wellfound.com, tracxn.com, vestbee.com, prnewswire.com, crunchbase.com, maddyness.com, dealroom.co, owler.com, cfnews.net, frenchweb.fr, superprof.pl, e-korepetycje.net, mathema.me, blog.mean.ceo, eschoolnews.com, osvita.ua, znohub.online, uokik.gov.pl, digitalpolicyalert.org, rp.pl, tabletowo.pl, bizblog.spidersweb.pl, mycompanypolska.pl, mamstartup.pl, dwakwadranse.pl, brighterly.com, myengineeringbuddy.com, sikayetvar.com, lrnkey.com.
 
 ## Related pages
 
