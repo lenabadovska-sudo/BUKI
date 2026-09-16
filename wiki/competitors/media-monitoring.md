@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-09-15
+Last updated: 2026-09-16
 
 ---
 
@@ -49,6 +49,16 @@ Last updated: 2026-09-15
 Інші перевірені й виключені як не нові/нерелевантні: TutorFair acquired by Superprof (Instagram-пост 2022 року, історичний, спливає в пошуку через ключові слова); Superprof×Profes.com.br M&A (08.06.2026, вже відомо з попередніх записів); Preply Series D $150M (січень 2026, вже залоговано в [preply.md](preply.md)); листикли BUKI в TOP-5/6 на interia.pl — той самий evergreen-контент, що й у попередніх перевірках; відгуки на Trustpilot/Otzovik/otzyvua.net про BUKI — той самий корпус скарг 2023–2025 (незручний профіль, довгі відповіді, неможливість видалити акаунт), без нових дат; Reddit/форумні скарги на Preply/Superprof — загальні порівняльні статті без конкретних дат чи прив'язки до BUKI.
 
 Додаткові джерела цієї перевірки: buki.com.ua, buki.org.pl, bukischool.com.pl, trustpilot.com, otzovik.com, otzyvua.net, toneto.net, wydarzenia.interia.pl, pomaturze.pl, preply.com, pitchbook.com, eu-startups.com, wellfound.com, tracxn.com, vestbee.com, prnewswire.com, crunchbase.com, maddyness.com, dealroom.co, owler.com, cfnews.net, frenchweb.fr, superprof.pl, e-korepetycje.net, mathema.me, blog.mean.ceo, eschoolnews.com, osvita.ua, znohub.online, uokik.gov.pl, digitalpolicyalert.org, rp.pl, tabletowo.pl, bizblog.spidersweb.pl, mycompanypolska.pl, mamstartup.pl, dwakwadranse.pl, brighterly.com, myengineeringbuddy.com, sikayetvar.com, lrnkey.com.
+
+## [2026-09-16] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок (за останні ~24–48 год) брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща) — у новинах, на форумах, в соцмережах, на сайтах відгуків. Додатково перевірено точкові запити на фінансування/M&A/партнерства (Preply, Superprof), відгуки/скарги (BUKI, форуми, Reddit) і окремо AllRight/Mathema.
+
+**Результат: нових датованих згадок за останні 24–48 год не знайдено.**
+
+Усі знахідки — вже відомий, раніше залогований або "вічнозелений" контент: Preply Series D $150M (січень 2026, вже в [preply.md](preply.md)); Superprof×Tutors.com, 21-а аквізиція (вересень 2026, вже залоговано 2026-09-13); Superprof×Profes.com.br M&A (08.06.2026, вже відомо); справа UOKiK проти Tutlo щодо незрозумілих умов розірвання контракту (звинувачення від 2025-02-11, вже виключалась 2026-09-15 як стара); листикли BUKI/Superprof/e-korepetycje в TOP-5/6 на interia.pl, dziennikwschodni.pl, rankingedukacji.pl — той самий evergreen-контент; звіт про ціни на корепетиції в Польщі 2026 з посиланням на дані BUKI (математика 70,76 zł/год, англійська 73,01 zł/год) — уже відомий з попередніх перевірок (RMF FM, Dziennik.pl, березень 2026); відгуки на Trustpilot/vidhuk.ua/realreviews.io про BUKI — той самий корпус скарг (менеджери BUKI School нібито відмовляють від індивідуальних репетиторів, складнощі з комісією) без нових дат; AllRight/Mathema — жодних новин про фінансування чи M&A, лише сторінки відгуків і тарифів.
+
+Джерела перевірених запитів: buki.com.ua, buki.org.pl, bukischool.com.pl, bukischool.com.ua, vidhuk.ua, ua.realreviews.io, trustpilot.com (усі регіональні піддомени), enguide.ua, preply.com, tech.eu, ain.ua, eu-startups.com, sifted.eu, prnewswire.com, pitchbook.com, tracxn.com, maddyness.com, crunchbase.com, cbinsights.com, owler.com, znohub.online, znohub.info, znayshov.com, 44.ua, education.ua, tutlo.com, hello.tutlo.com, bizblog.spidersweb.pl, telepolis.pl, mycompanypolska.pl, tabletowo.pl, bankier.pl, wykop.pl, wydarzenia.interia.pl, dziennikwschodni.pl, rankingedukacji.pl, rankingszkoljezykowych.pl, rmf.fm, allright.com, mathema.me, e-korepetycje.net, osvita.ua, repetitor.org.ua, imena.ua, osvitanova.com.ua, comparic.pl, forexclub.pl, mdotacje.pl.
 
 ## Related pages
 
