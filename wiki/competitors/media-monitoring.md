@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-09-16
+Last updated: 2026-09-17
 
 ---
 
@@ -59,6 +59,16 @@ Last updated: 2026-09-16
 Усі знахідки — вже відомий, раніше залогований або "вічнозелений" контент: Preply Series D $150M (січень 2026, вже в [preply.md](preply.md)); Superprof×Tutors.com, 21-а аквізиція (вересень 2026, вже залоговано 2026-09-13); Superprof×Profes.com.br M&A (08.06.2026, вже відомо); справа UOKiK проти Tutlo щодо незрозумілих умов розірвання контракту (звинувачення від 2025-02-11, вже виключалась 2026-09-15 як стара); листикли BUKI/Superprof/e-korepetycje в TOP-5/6 на interia.pl, dziennikwschodni.pl, rankingedukacji.pl — той самий evergreen-контент; звіт про ціни на корепетиції в Польщі 2026 з посиланням на дані BUKI (математика 70,76 zł/год, англійська 73,01 zł/год) — уже відомий з попередніх перевірок (RMF FM, Dziennik.pl, березень 2026); відгуки на Trustpilot/vidhuk.ua/realreviews.io про BUKI — той самий корпус скарг (менеджери BUKI School нібито відмовляють від індивідуальних репетиторів, складнощі з комісією) без нових дат; AllRight/Mathema — жодних новин про фінансування чи M&A, лише сторінки відгуків і тарифів.
 
 Джерела перевірених запитів: buki.com.ua, buki.org.pl, bukischool.com.pl, bukischool.com.ua, vidhuk.ua, ua.realreviews.io, trustpilot.com (усі регіональні піддомени), enguide.ua, preply.com, tech.eu, ain.ua, eu-startups.com, sifted.eu, prnewswire.com, pitchbook.com, tracxn.com, maddyness.com, crunchbase.com, cbinsights.com, owler.com, znohub.online, znohub.info, znayshov.com, 44.ua, education.ua, tutlo.com, hello.tutlo.com, bizblog.spidersweb.pl, telepolis.pl, mycompanypolska.pl, tabletowo.pl, bankier.pl, wykop.pl, wydarzenia.interia.pl, dziennikwschodni.pl, rankingedukacji.pl, rankingszkoljezykowych.pl, rmf.fm, allright.com, mathema.me, e-korepetycje.net, osvita.ua, repetitor.org.ua, imena.ua, osvitanova.com.ua, comparic.pl, forexclub.pl, mdotacje.pl.
+
+## [2026-09-17] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок (за останні ~24–48 год) брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща) — у новинах, на форумах, в соцмережах, на сайтах відгуків. Додатково перевірено точкові запити на фінансування/M&A/партнерства (Preply, Superprof, GoStudent), відгуки/скарги (BUKI, Reddit) і справу UOKiK проти Tutlo.
+
+**Результат: нових датованих згадок за останні 24–48 год не знайдено.**
+
+Усі знахідки — вже відомий, раніше залогований або "вічнозелений" контент: Preply Series D $150M / €127M, valuation $1,2 млрд (січень 2026, вже в [preply.md](preply.md)); Superprof×Tutors.com, 21-а аквізиція (вересень 2026, вже залоговано 2026-09-13); Superprof×Profes.com.br M&A (08.06.2026, вже відомо); справа UOKiK проти Tutlo щодо незрозумілих умов розірвання контракту (звинувачення від 2025-02-11, вже виключалась 2026-09-15 як стара); звіт про ціни на корепетиції в Польщі 2026 з посиланням на дані BUKI (математика 70,76 zł/год, англійська 73,01 zł/год, польська 85,75 zł/год) — той самий матеріал RMF FM (березень 2026), вже відомий з попередніх перевірок; GoStudent — лише дані про скорочення штату (4 962 співробітники в 2026, -18,7% рік до року) без точної дати публікації й без прив'язки до вікна 24–48 год, не логовано; відгуки на Trustpilot/Otzovik/otzyvua.net про BUKI — той самий корпус скарг (репетитори не отримують оплату за пробний урок без купівлі пакету, довгі відповіді підтримки, складно видалити акаунт), без нових дат; пошук по Reddit не повернув релевантних згадок BUKI/Preply/Superprof.
+
+Джерела перевірених запитів: buki.com.ua, buki.org.pl, bukischool.com.ua, bukischool.com.pl, ru.trustpilot.com, otzovik.com, otzyvua.net, toneto.net, ua.realreviews.io, vidhuk.ua, preply.com, preply.com/en/blog, tech.eu, eu-startups.com, tracxn.com, pitchbook.com, prnewswire.com, vestbee.com, crunchbase.com, owler.com, dealroom.co, maddyness.com, superprof.pl, superprof.com, mathema.me, e-korepetycje.net, rankingedukacji.pl, tutlo.com, hello.tutlo.com, uokik.gov.pl, rp.pl, tabletowo.pl, mycompanypolska.pl, wnp.pl, bankier.pl, wykop.pl, rmf.fm, znohub.online, znohub.info, education.ua, gostudent.org, reveliolabs.com, hackernoon.com.
 
 ## Related pages
 
