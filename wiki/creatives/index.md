@@ -21,6 +21,10 @@ Last updated: 2026-09-13
 
 _(поки порожньо — перший запис з'явиться після ingest кампанійного звіту або підтвердженого запису в чаті)_
 
+## Перформанс форматів
+
+- [format-performance-sep-2026.md](format-performance-sep-2026.md) — порівняння Video UGC+Influence / Video AI / GIF / Статика за 01.09–14.09.2026: UGC лідирує по CAC і Lead→Pay
+
 ## Production Brief
 
 Готові брифи лежать у `wiki/creatives/briefs/{slug}.md` — по одному на ідею, що пройшла скоринг у `ad-creative-agent`. Макет під підтверджений бриф `ad-creative-agent` збирає у Figma (MCP `claude.ai Figma`), не через окремий render-сервіс.

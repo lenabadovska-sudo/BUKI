@@ -36,6 +36,7 @@ Last updated: 2026-09-15
 ## Креативи
 
 - [creatives/index.md](creatives/index.md) — довідкова база креативів BUKI + Production Brief для `ad-creative-agent` (`wiki/creatives/briefs/`); поки каркас, наповнюється по мірі появи джерел
+- [creatives/format-performance-sep-2026.md](creatives/format-performance-sep-2026.md) — перформанс форматів (UGC/AI/GIF/статика) за 01.09–14.09: UGC лідирує по CAC (€149) і CR Lead→Pay (15,13%)
 
 ## Артефакти
 
