@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "meta-ad-library": {
+      "command": "node",
+      "args": [
+        "/Users/badovskaolena/BUKI | Marketing | Claude/mcp-servers/meta-ad-library/dist/index.js"
+      ]
+    }
+  }
+}

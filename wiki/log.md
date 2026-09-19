@@ -4,6 +4,30 @@ Append-only лог усіх операцій над wiki.
 
 ---
 
+## 2026-09-19 — побудовано meta-ad-library-mcp-server, підключено Meta Ad Library
+
+Довершено ланцюжок з попереднього запису (18.09): користувач отримав id-verification, App ID/Secret, і через Access Token Debugger (Extend Access Token) — довгоживучий (~60 днів, до 18.11.2026) access token зі scope `ads_read`. Токен перевірено напряму (`debug_token`, реальний запит до `ads_archive`) перед тим, як щось будувати.
+
+Через `mcp-builder` skill зібрано `mcp-servers/meta-ad-library/` — локальний TypeScript/stdio MCP-сервер (Python не підійшов: система має лише Python 3.9, а MCP SDK потребує 3.10+, і Homebrew/pyenv на машині нема — TypeScript обрано як робочу альтернативу, до речі і дефолтну рекомендацію самого skill'а). Один інструмент: `search_ads` (search_terms + ad_reached_countries → список оголошень з hook/текстом, посиланням на оригінал, days_active як проксі-метрика перформансу замість impressions, які Meta не віддає для звичайної комерційної реклами — тільки для political/social-issue). Помилки розрізняються: expired/invalid token vs невалідні параметри vs rate limit — агент отримує конкретну підказку, а не сирий stack trace.
+
+Перевірено end-to-end: `npm run build` пройшов чисто, реальний MCP stdio handshake + виклик `search_ads` (search_terms="korepetycje", PL) повернув справжні оголошення конкурентів (напр. "Progresio Korepetycje" з конкретним hook про матуру) — не мок-дані.
+
+Токен лежить у `.env` в корені проєкту (`META_ACCESS_TOKEN`, `META_APP_ID`) — підтверджено через `git check-ignore`, що файл не потрапить у git. Сервер зареєстровано в новому `.mcp.json` (project-scoped, `node mcp-servers/meta-ad-library/dist/index.js`).
+
+Створено:
+- `mcp-servers/meta-ad-library/` — `package.json`, `tsconfig.json`, `src/index.ts`, `README.md` (setup, ротація токена, відомі обмеження Meta API)
+- `.mcp.json` — реєстрація сервера для цього проєкту
+- `.env` (не в git) — `META_ACCESS_TOKEN`, `META_APP_ID`
+
+Оновлено:
+- `.gitignore` — додано `.env`, `.env.*`, `mcp-servers/*/node_modules/`, `mcp-servers/*/dist/` (build-артефакти й секрети не в git; для роботи на іншій машині потрібен `npm install && npm run build` в теці сервера)
+
+Незакрите:
+1. Токен спливає ~18.11.2026 — коли `search_ads` почне повертати "token expired", інструкція з ротації є в `mcp-servers/meta-ad-library/README.md`.
+2. Сесію Claude Code, ймовірно, потрібно перезапустити (чи підтвердити новий MCP-сервер), щоб новий `.mcp.json` підхопився — `ToolSearch` на `search_ads` в цій самій сесії ще може його не бачити.
+3. `ad-creative-agent` (кроки 0/2) досі описаний generic-формулюванням "перевір ToolSearch на MCP tools для Meta Ad Library" — не звірявся окремо, чи він знайде саме `search_ads` за цим формулюванням; варто підтвердити при першому реальному запуску агента.
+4. 10-питаннєвий eval suite з мануала `mcp-builder` не робився (лише прямий smoke test) — можна додати пізніше, якщо якість результатів агента виявиться нестабільною.
+
 ## 2026-09-18 — перевірка готовності ad-creative-agent до запуску
 
 За запитом користувача "перевір як його запустити" — перевірено фактичну доступність трьох джерел, які `ad-creative-agent` перевіряє на кроці 0.
