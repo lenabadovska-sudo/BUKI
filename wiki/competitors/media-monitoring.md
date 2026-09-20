@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-09-19
+Last updated: 2026-09-20
 
 ---
 
@@ -89,6 +89,16 @@ Last updated: 2026-09-19
 Усі знахідки — вже відомий, раніше залогований або "вічнозелений" контент: Preply Series D $150M / €127M, valuation $1,2 млрд (січень 2026, вже в [preply.md](preply.md)); блог-пост Preply "A New Chapter for Preply and the Future of Learning" — датований 2026-01-27, той самий Series D-анонс, не нова публікація; Superprof×Tutors.com, 21-а аквізиція (вересень 2026, вже залоговано 2026-09-13); Superprof×Profes.com.br M&A (08.06.2026, вже відомо); AllRight — останній публічний раунд лишається Series A від 2023-03-23, жодної новини про нове фінансування; звіт про ціни на корепетиції в Польщі 2026 з посиланням на дані BUKI (математика 70,76 zł/год, англійська 73,01 zł/год) — той самий матеріал, вже відомий з попередніх перевірок; відгуки на Trustpilot/Otzovik/otzyvua.net про BUKI — той самий корпус скарг (складно зв'язатись з підтримкою, неможливо видалити профіль, репетиторам не платять за перший урок), без нових дат; Znohub — лише "вічнозелений" контент про підготовку до НМТ 2026, без датованих новин про компанію; пошук по Reddit не повернув релевантних згадок BUKI/Preply/Superprof.
 
 Джерела перевірених запитів: buki.com.ua, buki.com.ua/ru, buki.org.pl, trustpilot.com (усі регіональні піддомени), otzovik.com, otzyvua.net, toneto.net, otzyv.eu, preply.com, preply.com/en/blog, pitchbook.com, eu-startups.com, tracxn.com, leadiq.com, sg.finance.yahoo.com, techcrunch.com, openai.com, maddyness.com, cfnews.net, frenchweb.fr, crunchbase.com, dealroom.co, poland.dealroom.co, cbinsights.com, craft.co, e-korepetycje.net, rankingedukacji.pl, blog.mean.ceo, znohub.online, znayshov.com.
+
+## [2026-09-20] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок (за останні ~24–48 год) брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща) — у новинах, на форумах, в соцмережах, на сайтах відгуків. Додатково перевірено точкові запити на фінансування/M&A/партнерства (Preply, Superprof, AllRight), відгуки/скарги (BUKI, Reddit), BUKI на ринку PL і окремо Mathema/Znohub.
+
+**Результат: нових датованих згадок за останні 24–48 год не знайдено.**
+
+Усі знахідки — вже відомий, раніше залогований або "вічнозелений" контент: Preply Series D $150M / €127M, valuation $1,2 млрд (січень 2026, вже в [preply.md](preply.md)); Superprof×Tutors.com, 21-а аквізиція (вересень 2026, вже залоговано 2026-09-13); Superprof×Profes.com.br M&A (08.06.2026, вже відомо); справа UOKiK проти Tutlo щодо незрозумілих умов розірвання контракту (звинувачення від 2025-02-11, останнє оновлення 2026-08-24, без нової дати в межах вікна, вже виключалась 2026-09-15/16); відгуки на Trustpilot/Otzovik/vidhuk.ua/toneto.net про BUKI — той самий корпус скарг (репетиторам не платять за пробний урок без купівлі пакету, незручний UI та AI-підказки, сповіщення потребують ручного оновлення сторінки, складно зв'язатись з підтримкою), без нових дат; сторінки BUKI в Польщі (buki.org.pl, корепетиції з української мови) — той самий "вічнозелений" контент про запуск на ринку PL, без датованих новин; Mathema/Znohub — лише сторінки продукту й evergreen-відгуки, без датованих новин про компанію; AllRight — жодних новин про фінансування чи M&A (останній раунд лишається Series A, 2023-03-23).
+
+Джерела перевірених запитів: buki.com.ua, buki.com.ua/ru, buki.com.ua/en, buki.org.pl, buki-kz.com, bukischool.com.ua, trustpilot.com (усі регіональні піддомени), otzovik.com, otzyvua.net, toneto.net, vidhuk.ua, pomaturze.pl, fundacjaukraina.eu, preply.com, preply.com/en/blog, pitchbook.com, tracxn.com, wellfound.com, eu-startups.com, prnewswire.com, vestbee.com, crunchbase.com, dealroom.co, app.dealroom.co, einpresswire.com, finance.yahoo.com, globenewswire.com, myengineeringbuddy.com, superprof.pl, e-korepetycje.net, mathema.me, allright.com, znohub.online, znohub.info, education.ua, tutlo.com, hello.tutlo.com, uokik.gov.pl, rp.pl, bankier.pl, tabletowo.pl, mycompanypolska.pl, wnp.pl, dwakwadranse.pl, strefabiznesu.pl, rankingedukacji.pl, edun.pl, czops.pl, rabatio.com, zero.pl, forsal.pl.
 
 ## Related pages
 
