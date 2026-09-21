@@ -4,6 +4,22 @@ Append-only лог усіх операцій над wiki.
 
 ---
 
+## 2026-09-21 — щотижневий Competitive Watch (запуск `competitive-watch-agent`, синхронно в тій самій сесії)
+
+Виконано кроки 0-4 агента напряму (без Agent/Task tool, щоб уникнути втрати результату через background-запуск — попередній такий запуск не встиг завершитись). `git pull origin main` — без змін.
+
+Пройдено `competitor-site-watch` для всіх 4 конкурентів з [competitors/index.md](competitors/index.md). Прямий WebFetch на всі чотири домени (`preply.com`, `www.superprof.pl`, `www.gostudent.org`, `tutlo.com`) повернув `EGRESS_BLOCKED` — уперше блок покрив увесь трекнутий набір одразу (GoStudent і Tutlo раніше фетчились напряму). Дані зібрано через WebSearch, чесно позначено в кожному записі. Жоден конкурент не дав нової стратегічної події у вікні 14.09–21.09; уточнено кілька деталей до вже зафіксованих фактів (фінансування угоди Tutors.com через BNP Paribas/JPMorgan, дублікат "Efficiency Study" Preply, розбіжність у самозаявлених цифрах Tutlo, згадка BUKI в партнерській статті на Interia.pl поряд із Superprof/Preply/GoStudent).
+
+Спроба оновити накопичувальну Figma-дошку (додати колонку 2026-09-21) **не вдалась** — Figma MCP на Starter-плані видав `tool call limit`. Дошка лишилась на 2 колонках (13.09, 14.09), відстає на тиждень від текстових брифів; позначено в index.md як відкрите питання (потрібне підвищення плану або повторний захід після скидання ліміту).
+
+Створено:
+- `wiki/competitors/reviews/2026-09-21-weekly-brief.md`
+
+Оновлено:
+- `wiki/competitors/preply.md`, `wiki/competitors/superprof.md`, `wiki/competitors/gostudent.md`, `wiki/competitors/tutlo.md` — по одному новому запису кожен
+- `wiki/competitors/index.md` — дати останніх записів, нотатка про розширення egress-блоку і про незавершене оновлення Figma-дошки
+- `wiki/index.md` — Last updated, новий рядок тижневого брифу
+
 ## 2026-09-19 — побудовано meta-ad-library-mcp-server, підключено Meta Ad Library
 
 Довершено ланцюжок з попереднього запису (18.09): користувач отримав id-verification, App ID/Secret, і через Access Token Debugger (Extend Access Token) — довгоживучий (~60 днів, до 18.11.2026) access token зі scope `ads_read`. Токен перевірено напряму (`debug_token`, реальний запит до `ads_archive`) перед тим, як щось будувати.

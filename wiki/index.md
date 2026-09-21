@@ -2,7 +2,7 @@
 
 Карта всіх сторінок wiki BUKI.
 
-Last updated: 2026-09-15
+Last updated: 2026-09-21
 
 ---
 
@@ -30,6 +30,7 @@ Last updated: 2026-09-15
 - [competitors/gostudent.md](competitors/gostudent.md) — GoStudent, append-only лог (global, Австрія): unicorn K-12 репетиторство, підписка за пакетом уроків, AI-фічі (recap, Magic Quizzes) вбудовано в продукт
 - [competitors/tutlo.md](competitors/tutlo.md) — Tutlo, append-only лог (Польща): монопродукт (тільки англійська), ціна за 20-хв урок від 29 zł, індивідуальна оцінка після консультації
 - [competitors/media-monitoring.md](competitors/media-monitoring.md) — щоденний медіамоніторинг нових згадок BUKI/Preply/Superprof/Mathema/AllRight/Znohub/Tutlo в новинах, соцмережах, на сайтах відгуків
+- [competitors/reviews/2026-09-21-weekly-brief.md](competitors/reviews/2026-09-21-weekly-brief.md) — тижневий бриф 21.09: без нових стратегічних подій у жодного конкурента; egress-блок поширився на всі 4 домени (нуль прямих site-diff цього тижня), Figma-дошку не оновлено через rate limit Starter-плану
 - [competitors/reviews/2026-09-14-weekly-brief.md](competitors/reviews/2026-09-14-weekly-brief.md) — тижневий бриф 14.09 (вікно 1 доба): без нових датованих подій, дозаписано контекст ("The Better Duo" Preply, Innova Capital/Tutore в Польщі). Без термінової дії
 - [competitors/reviews/2026-09-13-weekly-brief.md](competitors/reviews/2026-09-13-weekly-brief.md) — тижневий бриф 13.09: зміни в обох конкурентів (Superprof купив Tutors.com; Preply вивів AI у продукт). Топ-1 інсайт — конкуренти зайняли обидва полюси «AI vs людяність»
 
