@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-09-20
+Last updated: 2026-09-22
 
 ---
 
@@ -99,6 +99,16 @@ Last updated: 2026-09-20
 Усі знахідки — вже відомий, раніше залогований або "вічнозелений" контент: Preply Series D $150M / €127M, valuation $1,2 млрд (січень 2026, вже в [preply.md](preply.md)); Superprof×Tutors.com, 21-а аквізиція (вересень 2026, вже залоговано 2026-09-13); Superprof×Profes.com.br M&A (08.06.2026, вже відомо); справа UOKiK проти Tutlo щодо незрозумілих умов розірвання контракту (звинувачення від 2025-02-11, останнє оновлення 2026-08-24, без нової дати в межах вікна, вже виключалась 2026-09-15/16); відгуки на Trustpilot/Otzovik/vidhuk.ua/toneto.net про BUKI — той самий корпус скарг (репетиторам не платять за пробний урок без купівлі пакету, незручний UI та AI-підказки, сповіщення потребують ручного оновлення сторінки, складно зв'язатись з підтримкою), без нових дат; сторінки BUKI в Польщі (buki.org.pl, корепетиції з української мови) — той самий "вічнозелений" контент про запуск на ринку PL, без датованих новин; Mathema/Znohub — лише сторінки продукту й evergreen-відгуки, без датованих новин про компанію; AllRight — жодних новин про фінансування чи M&A (останній раунд лишається Series A, 2023-03-23).
 
 Джерела перевірених запитів: buki.com.ua, buki.com.ua/ru, buki.com.ua/en, buki.org.pl, buki-kz.com, bukischool.com.ua, trustpilot.com (усі регіональні піддомени), otzovik.com, otzyvua.net, toneto.net, vidhuk.ua, pomaturze.pl, fundacjaukraina.eu, preply.com, preply.com/en/blog, pitchbook.com, tracxn.com, wellfound.com, eu-startups.com, prnewswire.com, vestbee.com, crunchbase.com, dealroom.co, app.dealroom.co, einpresswire.com, finance.yahoo.com, globenewswire.com, myengineeringbuddy.com, superprof.pl, e-korepetycje.net, mathema.me, allright.com, znohub.online, znohub.info, education.ua, tutlo.com, hello.tutlo.com, uokik.gov.pl, rp.pl, bankier.pl, tabletowo.pl, mycompanypolska.pl, wnp.pl, dwakwadranse.pl, strefabiznesu.pl, rankingedukacji.pl, edun.pl, czops.pl, rabatio.com, zero.pl, forsal.pl.
+
+## [2026-09-22] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок (за останні ~24–48 год) брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща) — у новинах, на форумах, в соцмережах, на сайтах відгуків. Додатково перевірено точкові запити на фінансування/M&A/партнерства (Preply, Superprof, GoStudent), відгуки/скарги (BUKI, Reddit) і окремо запити з явним звуженням на дати 21–22.09.2026.
+
+**Результат: нових датованих згадок за останні 24–48 год не знайдено.**
+
+Усі знахідки — вже відомий, раніше залогований або "вічнозелений" контент: Preply Series D $150M / €127M, valuation $1,2 млрд (січень 2026, вже в [preply.md](preply.md)); Superprof×Tutors.com, 21-а аквізиція (вересень 2026, вже залоговано 2026-09-13); Superprof×Profes.com.br M&A (08.06.2026, вже відомо); справа UOKiK проти Tutlo щодо незрозумілих умов розірвання контракту (звинувачення від 2025-02-11, останнє оновлення 2026-08-24, вже виключалась 2026-09-15/16/20); звіт про ціни на корепетиції в Польщі 2026 з посиланням на дані BUKI (математика 70,76 zł/год, англійська 73,01 zł/год) — той самий матеріал (RMF FM, березень 2026), вже відомий з попередніх перевірок; GoStudent — лише історичні дані про фінансування ($779M, valuation $3,21 млрд) і хвилі скорочень 2022–2024 років, без датованої новини у вересні 2026; стара новина про можливе поглинання BUKI Kyivstar'ом — за фактчеком це квітень 2025 року, Kyivstar тоді ж спростував інтерес, давно відомо й поза вікном; відгуки на Trustpilot/Otzovik/vidhuk.ua/toneto.net про BUKI — той самий корпус скарг (незручний AI-функціонал, репетиторам не платять за пробний урок без купівлі пакету, складно зв'язатись з підтримкою, неможливо видалити профіль), без нових дат; скарги на Superprof (Trustpilot, огляди-порівняння) — типові для сервісу, без прив'язки до конкретної дати в межах вікна; AllRight/Mathema/Znohub — лише сторінки продукту й evergreen-контент (для Znohub — анонс пробного НМТ 28–29 вересня, вже запланована акція, не інцидентна новина), без датованих новин про компанію.
+
+Додаткові джерела цієї перевірки: buki.com.ua, buki.com.ua/ru, buki.com.ua/en, buki.org.pl, buki-kz.com, trustpilot.com (усі регіональні піддомени), otzovik.com, otzyvua.net, toneto.net, vidhuk.ua, eto-razvod.ru, preply.com, preply.com/en/blog, tech.eu, ain.ua, tracxn.com, pitchbook.com, prnewswire.com, crunchbase.com, dealroom.co, app.dealroom.co, einpresswire.com, owler.com, mycompanypolska.pl, wnp.pl, rp.pl, uokik.gov.pl, strefabiznesu.pl, tvp.pl, rankingedukacji.pl, mathema.me, tracxn.com/companies/mathema, dev.ua, education.ua, allright.com, craft.co, zoominfo.com, znohub.online, osvita.ua, t.me/nmt2026_znohub, gostudent.org, layoffs.fyi, layoffstoday.io, trueup.io, teamblind.com, 6figr.com, techcrunch.com, linkedin.com, techukraine.org, sidehustles.com, wiingy.com, brighterly.com, lrnkey.com, myengineeringbuddy.com.
 
 ## Related pages
 
