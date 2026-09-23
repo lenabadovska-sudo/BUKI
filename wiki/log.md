@@ -4,6 +4,14 @@ Append-only лог усіх операцій над wiki.
 
 ---
 
+## 2026-09-23 — щоденний медіамоніторинг: нових згадок не знайдено
+
+Автоматизований щоденний запуск медіамоніторингу (WebSearch, укр./пол./англ. запити) по брендах BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща), плюс точкові запити на фінансування/M&A/партнерства (Preply, Superprof, AllRight), відгуки/скарги (BUKI, Reddit), справу UOKiK проти Tutlo і окремо Mathema/Znohub. **Нових датованих згадок за останні 24–48 год не знайдено** — лист на пошту не надсилався (за протоколом задачі). Окремо перевірено й спростовано хибне датування одним з пошукових видач дослідження Preply "learners switched from self-learning app" як 21.09.2026 — за первинним джерелом (Morningstar/PR Newswire) публікація датована 2026-08-04, вже відома з попередніх перевірок.
+
+Оновлено:
+- `wiki/competitors/media-monitoring.md` — додано датований підрозділ "[2026-09-23] — перевірка"
+- `wiki/index.md` — Last updated
+
 ## 2026-09-21 — щотижневий Competitive Watch (запуск `competitive-watch-agent`, синхронно в тій самій сесії)
 
 Виконано кроки 0-4 агента напряму (без Agent/Task tool, щоб уникнути втрати результату через background-запуск — попередній такий запуск не встиг завершитись). `git pull origin main` — без змін.
