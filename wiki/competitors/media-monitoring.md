@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-09-21
+Last updated: 2026-09-25
 
 ---
 
@@ -109,6 +109,16 @@ Last updated: 2026-09-21
 Усі знахідки — вже відомий, раніше залогований або "вічнозелений" контент: Preply Series D $150M / €127M, valuation $1,2 млрд (січень 2026, вже в [preply.md](preply.md)); дослідження Preply "learners switched from self-learning app" — перевірено ще раз, прес-реліз датовано **2026-08-04** (source: [morningstar.com](https://www.morningstar.com/news/pr-newswire/20260804ne18212/learners-who-switched-to-preply-report-stronger-motivation-greater-fluency-support-and-higher-goal-achievement-than-with-the-leading-self-learning-language-app-study-finds), [prnewswire.com](http://www.prnewswire.com/news-releases/learners-who-switched-to-preply-report-stronger-motivation-greater-fluency-support-and-higher-goal-achievement-than-with-the-leading-self-learning-language-app-study-finds-302841688.html)), не нова публікація, хоча одна пошукова видача помилково натякала на дату 2026-09-20 — перевірка джерела спростувала це; Superprof×Tutors.com, 21-а аквізиція (вересень 2026, вже залоговано 2026-09-13), уточнено деталі фінансування угоди — повна оплата готівкою за підтримки BNP Paribas і JPMorgan (source: [einpresswire.com](https://www.einpresswire.com/article/940628445/superprof-acquires-tutors-com-becomes-the-number-one-tutoring-platform-in-the-united-states)), не новий факт, лише деталізація вже відомої новини; AllRight — жодних новин про фінансування чи M&A (останній раунд лишається Convertible Note $1M від 2023-04-18); Mathema/Znohub — жодних датованих новин про компанію, лише "вічнозелений" продуктовий контент; відгуки на Trustpilot/Otzovik/otzyvua.net/toneto.net про BUKI — той самий корпус скарг (складно зв'язатись з підтримкою, неможливо видалити профіль, репетиторам мало заявок без платного "TOP"-розміщення), без нових дат; пошук по Reddit не повернув релевантних згадок BUKI/Preply/Superprof.
 
 Джерела перевірених запитів: buki.com.ua, buki.com.ua/news, buki.com.ua/ru/reviews, buki.org.pl, trustpilot.com (усі регіональні піддомени), otzovik.com, otzyvua.net, toneto.net, otzyv.eu, work-info.name, enguide.ua, preply.com, preply.com/en/blog, morningstar.com, prnewswire.com, tipranks.com, aol.com, leanlabeducation.org, pitchbook.com, tracxn.com, eu-startups.com, ain.ua, crunchbase.com, superprof.pl, superprof.com, e-korepetycje.net, perimet.pl, super-edu.pl, mathema.me, allright.com, cbinsights.com, znohub.online, education.ua, tutlo.com, hello.tutlo.com, jestemgeekiem.pl, rankingedukacji.pl, aub.org.ua, dev.ua, aifundingtracker.com, linkedin.com.
+
+## [2026-09-25] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок (за останні ~24–48 год, додатково розширено вікно через відсутність записів за 22–24.09) брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща) — у новинах, на форумах, в соцмережах, на сайтах відгуків. Додатково перевірено точкові запити на фінансування/M&A/партнерства (Preply, Superprof) і відгуки/скарги (BUKI, Reddit).
+
+**Результат: нових датованих згадок не знайдено.**
+
+Усі знахідки — вже відомий, раніше залогований або "вічнозелений" контент: Superprof×Tutors.com, 21-а аквізиція (анонс 2026-09-08/09, вже залоговано 2026-09-13); Preply Series D $150M / €127M, valuation $1,2 млрд (січень 2026, вже в [preply.md](preply.md)); оновлення критеріїв Preply Super Tutor Program (з 7 до 9 критеріїв) — датовано 2026-08-01, службова зміна довідкового центру, а не медіа-подія, поза вікном моніторингу; звіт про ціни на корепетиції в Польщі 2026 з посиланням на дані BUKI (математика 70,76 zł/год, англійська 73,01 zł/год) — той самий матеріал, вже відомий з попередніх перевірок; відгуки на Trustpilot/Otzovik/vidhuk.ua/toneto.net про BUKI — той самий корпус скарг (незручні AI-підказки в профілі, складно додзвонитись/дочекатись відповіді в месенджерах, мало заявок репетиторам без платного "TOP"-розміщення) поряд з позитивними відгуками (стабільний потік завдань, гарна підтримка менеджерів) — без нових дат; Mathema/Znohub/AllRight — жодних датованих новин про компанію, лише "вічнозелений" продуктовий контент і соцмережі; пошук по Reddit не повернув релевантних нових згадок BUKI/Preply/Superprof.
+
+Джерела перевірених запитів: buki.com.ua, buki.com.ua/news, buki.com.ua/ru/reviews, buki.org.pl, bukischool.com.ua, bukischool.com.pl, trustpilot.com (усі регіональні піддомени), otzovik.com, vidhuk.ua, toneto.net, preply.com, preply.com/en/blog, help.preply.com, eu-startups.com, pitchbook.com, tracxn.com, crunchbase.com, prnewswire.com, vestbee.com, cfnews.net, maddyness.com, frenchweb.fr, einpresswire.com, mykxlg.com, inforcapital.com, superprof.com, mathema.me, facebook.com/mathema.polska, allright.com, rankingedukacji.pl, znohub.online, tiktok.com/@znohub.online, tutlo.com, rabatio.com, mamstartup.pl, matkawariatka.pl, brighterly.com, myengineeringbuddy.com, wiingy.com, rocketreach.co.
 
 ## Related pages
 
