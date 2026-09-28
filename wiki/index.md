@@ -2,7 +2,7 @@
 
 Карта всіх сторінок wiki BUKI.
 
-Last updated: 2026-09-26
+Last updated: 2026-09-28
 
 ---
 
