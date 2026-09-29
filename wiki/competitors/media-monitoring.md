@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-09-28
+Last updated: 2026-09-29
 
 ---
 
@@ -141,6 +141,14 @@ Last updated: 2026-09-28
 Поза основним списком брендів (для контексту конкурентного спостереження, не для email-алерту цього моніторингу): **GoStudent придбав Berlitz Deutschland** — угода підписана наприкінці серпня, публічно анонсована **2026-09-16** (~50 мовних центрів у Німеччині, telc-екзаменаційні центри, річний оборот придбаного бізнесу ≈40 млн EUR) (source: [brutkasten.com](https://brutkasten.com/artikel/gostudent-kauft-berlitz-deutschland-felix-ohswald-erklaert), [trend.at](https://www.trend.at/unternehmen/gostudent-uebernimmt-berlitz-deutschland)). GoStudent не входить у офіційний список 12 брендів цього моніторингу (Україна/Польща) і подія поза вікном ~48 год — **не логовано як нову згадку цього моніторингу**, але сигнал (глобальний unicorn-конкурент розширюється через купівлю офлайн-мережі мовних шкіл) вартий уваги для наступного тижневого запуску `competitive-watch-agent`, який веде окремий append-only лог по GoStudent — [gostudent.md](gostudent.md).
 
 Джерела перевірених запитів: buki.com.ua, buki.com.ua/ru, buki.org.pl, buki-kz.com, trustpilot.com (усі регіональні піддомени), otzovik.com, otzyvua.net, vidhuk.ua, toneto.net, eto-razvod.ru, preply.com, preply.com/en/blog, pix11.com, wboy.com, finance.yahoo.com, prnewswire.com, tech.eu, ain.ua, sacra.com, pitchbook.com, tracxn.com, eu-startups.com, vestbee.com, crunchbase.com, cbinsights.com, yo-coach.com, superprof.pl, superprof.com, e-korepetycje.net, rankingszkoljezykowych.pl, rankingedukacji.pl, jakikursangielskiego.pl, tutlo.com, tutlo.com/pl, hello.tutlo.com, mathema.me, allright.com, dealroom.co, app.dealroom.co, craft.co, comparic.pl, mizzox.com, znohub.online, znayshov.com, osvita.ua, zno.osvita.ua, 44.ua, gostudent.org, brutkasten.com, trend.at, oe24.at, trendingtopics.eu, hackernoon.com, startup.jobs.
+
+## [2026-09-29] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща) — у новинах, на форумах, в соцмережах, на сайтах відгуків. Вікно ~24 год (попередня перевірка — 2026-09-28).
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий або "вічнозелений" контент: Preply Series D $150M / valuation $1,2 млрд (січень 2026, вже в [preply.md](preply.md)) (source: [eu-startups.com](https://www.eu-startups.com/2026/01/preply-adds-e127-million-in-fresh-capital-as-it-scales-ai-and-tutoring-platform-globally/)); дослідження Preply "learners switched from self-learning app" — пошукова видача знову хибно датувала його 2026-09-27, але прес-реліз датовано 2026-08-04 (source: [prnewswire.com](http://www.prnewswire.com/news-releases/learners-who-switched-to-preply-report-stronger-motivation-greater-fluency-support-and-higher-goal-achievement-than-with-the-leading-self-learning-language-app-study-finds-302841688.html)); прес-реліз про Preply Online Teaching Conference — вже розібраний у записі 2026-09-28. Огляд платформ корепетицій на rankingedukacji.pl, сторінки superprof.pl, mathema.me, znohub.online, buki.com.ua/news — без нових дат публікації (source: [rankingedukacji.pl](https://www.rankingedukacji.pl/blog/platformy-korepetycji-porownanie)). Cooley "Capital Markets Update" (21.09) не вдалося перевірити — домен заблоковано egress-проксі (needs verification: релевантність до брендів невідома).
 
 ## Related pages
 
