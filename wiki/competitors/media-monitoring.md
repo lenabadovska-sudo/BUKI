@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-09-29
+Last updated: 2026-10-01
 
 ---
 
@@ -149,6 +149,14 @@ Last updated: 2026-09-29
 **Результат: нових датованих згадок за вікно не знайдено.**
 
 Усі знахідки — вже відомий або "вічнозелений" контент: Preply Series D $150M / valuation $1,2 млрд (січень 2026, вже в [preply.md](preply.md)) (source: [eu-startups.com](https://www.eu-startups.com/2026/01/preply-adds-e127-million-in-fresh-capital-as-it-scales-ai-and-tutoring-platform-globally/)); дослідження Preply "learners switched from self-learning app" — пошукова видача знову хибно датувала його 2026-09-27, але прес-реліз датовано 2026-08-04 (source: [prnewswire.com](http://www.prnewswire.com/news-releases/learners-who-switched-to-preply-report-stronger-motivation-greater-fluency-support-and-higher-goal-achievement-than-with-the-leading-self-learning-language-app-study-finds-302841688.html)); прес-реліз про Preply Online Teaching Conference — вже розібраний у записі 2026-09-28. Огляд платформ корепетицій на rankingedukacji.pl, сторінки superprof.pl, mathema.me, znohub.online, buki.com.ua/news — без нових дат публікації (source: [rankingedukacji.pl](https://www.rankingedukacji.pl/blog/platformy-korepetycji-porownanie)). Cooley "Capital Markets Update" (21.09) не вдалося перевірити — домен заблоковано egress-проксі (needs verification: релевантність до брендів невідома).
+
+## [2026-10-01] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Вікно ~48 год (попередня перевірка — 2026-09-29).
+
+**Результат: нових підтверджених датованих згадок за вікно не знайдено.**
+
+Усі знахідки — "вічнозелений" контент або без підтвердженої дати: огляди платформ на dziennikwschodni.pl та відгуки Preply (trustpilot.com, oplacalnie.pl, niezaleznaopinia.pl) — без нових дат (source: [dziennikwschodni.pl](https://www.dziennikwschodni.pl/artykul/391188,5-platform-do-korepetycji-online-ktore-warto-znac-w-2026-roku)); сторінки та відгуки BUKI (buki.com.ua, trustpilot.com, otzovik.com, otzyvua.net) — той самий корпус, без нових дат (source: [trustpilot.com](https://www.trustpilot.com/review/buki.com.ua)); Mathema/Znohub/AllRight/Tutlo — лише продуктові сторінки й профілі, без датованих новин. Дві знахідки не вдалося верифікувати, бо домени заблоковано egress-проксі (needs verification, не логовано як нові згадки): Preply AI Talent Accelerator — оголошення про оплачувану 6-місячну стажування (дедлайн заявок 2026-10-02, старт 2026-10-19), знайдене в пошуковій видачі galera.news (source: [galera.news](https://galera.news/it-mozhlyvosti-oseni-ai-stazhuvannia-vid-preply-kse-agentic-ai-school-ciso-quick-start-ta-volonterstvo-v-italii-27316/)), дата публікації невідома, HR-контент, низька релевантність; опитування репетиторів Superprof про "digital backlash" (source: [yahoo.com](https://uk.finance.yahoo.com/news/burned-screens-hungry-meaning-superprof-120200553.html)), ймовірно старіше за вікно.
 
 ## Related pages
 
