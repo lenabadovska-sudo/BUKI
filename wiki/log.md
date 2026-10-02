@@ -470,3 +470,6 @@ Figma-дошка: план акаунту тепер показує tier "pro" (
 
 ## [2026-09-29] медіамоніторинг
 - Щоденний скан згадок BUKI/Preply/Superprof/Mathema/AllRight/Znohub/Tutlo (UA/PL/EN): нових згадок не знайдено (0). Додано запис у [competitors/media-monitoring.md](competitors/media-monitoring.md). Лист не надсилався.
+
+## [2026-10-02] медіамоніторинг
+- Щоденний скан згадок (UA/PL/EN): знайдено 1 нову згадку (Preply — AI Talent Accelerator в Україні). Додано запис у [competitors/media-monitoring.md](competitors/media-monitoring.md). Лист надіслано.

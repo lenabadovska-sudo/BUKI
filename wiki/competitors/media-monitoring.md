@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-09-29
+Last updated: 2026-10-02
 
 ---
 
@@ -149,6 +149,16 @@ Last updated: 2026-09-29
 **Результат: нових датованих згадок за вікно не знайдено.**
 
 Усі знахідки — вже відомий або "вічнозелений" контент: Preply Series D $150M / valuation $1,2 млрд (січень 2026, вже в [preply.md](preply.md)) (source: [eu-startups.com](https://www.eu-startups.com/2026/01/preply-adds-e127-million-in-fresh-capital-as-it-scales-ai-and-tutoring-platform-globally/)); дослідження Preply "learners switched from self-learning app" — пошукова видача знову хибно датувала його 2026-09-27, але прес-реліз датовано 2026-08-04 (source: [prnewswire.com](http://www.prnewswire.com/news-releases/learners-who-switched-to-preply-report-stronger-motivation-greater-fluency-support-and-higher-goal-achievement-than-with-the-leading-self-learning-language-app-study-finds-302841688.html)); прес-реліз про Preply Online Teaching Conference — вже розібраний у записі 2026-09-28. Огляд платформ корепетицій на rankingedukacji.pl, сторінки superprof.pl, mathema.me, znohub.online, buki.com.ua/news — без нових дат публікації (source: [rankingedukacji.pl](https://www.rankingedukacji.pl/blog/platformy-korepetycji-porownanie)). Cooley "Capital Markets Update" (21.09) не вдалося перевірити — домен заблоковано egress-проксі (needs verification: релевантність до брендів невідома).
+
+## [2026-10-02] — перевірка: 1 нова згадка (Preply)
+
+Перевірено WebSearch (укр., пол., англ. запити) згадки брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередня перевірка — 2026-09-29.
+
+**Результат: 1 нова згадка.**
+
+- **Preply** — запуск першого оплачуваного шестимісячного «AI Talent Accelerator» в Україні: до 5 стажерів-інженерів, набір до 2 жовтня, старт 19.10.2026, найкращі отримують пропозицію junior-ролі; кандидати — студенти 3–6 курсів технічних спеціальностей або з досвідом до 2 років, англійська B2+ (source: [vctr.media](https://vctr.media/ua/shist-misyacziv-u-produktovij-komandi-preply-kompaniya-vidkryla-nabir-na-ai-stazhuvannya-347740/), [tech.liga.net](https://tech.liga.net/ua/ai/news/ukraintsi-mozhut-proyty-oplachuvane-stazhuvannia-z-shi-v-preply), [dev.ua](https://dev.ua/news/preply-nabir-na-stazhuvannia-1789459777)). Тональність: позитивна (employer branding Preply в Україні). Дата публікації точно не встановлена — набір відкрито з 15.09.2026, vctr.media заблоковано egress-проксі, тож сторінку не відкрито (needs verification). Згадка не залогована раніше (пошук по wiki).
+
+Решта знахідок — вже відомий або "вічнозелений" контент: ranking-статті BUKI/Superprof/e-korepetycje (interia.pl, rankingedukacji.pl, rankingszkoljezykowych.pl), профілі Trustpilot Superprof PL, BUKI на forbes.ua/buki.com.ua/news, Znohub (womo.com.ua, znayshov.com — пробний НМТ), без нових дат. Про AllRight, Mathema, Tutlo датованих новин не знайдено.
 
 ## Related pages
 
