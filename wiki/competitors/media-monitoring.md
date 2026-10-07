@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-09-30
+Last updated: 2026-10-07
 
 ---
 
@@ -159,6 +159,14 @@ Last updated: 2026-09-30
 Усі знахідки — вже відомий або "вічнозелений" контент: Preply Series D $150M / valuation $1,2 млрд (січень 2026, вже в [preply.md](preply.md)) (source: [sifted.eu](https://sifted.eu/articles/preply-languages-app-raise-funding-round)); Preply Online Teaching Conference — торішня подія 25–26.09.2025, вже розібрана у записі 2026-09-28 (source: [prnewswire.com](https://www.prnewswire.com/news-releases/preply-hosts-fourth-global-online-teaching-conference-to-power-tutor-progress-and-shape-the-future-of-language-learning-302559164.html)); Superprof×Tutors.com (08.09.2026, вже залоговано 2026-09-13) (source: [natlawreview.com](https://natlawreview.com/press-releases/superprof-acquires-tutorscom-becomes-number-one-tutoring-platform-united)); Znohub — лише продуктові сторінки/соцмережі без датованих новин (source: [znohub.online](https://znohub.online/zno-nmt-mathematics)); відгуки про BUKI PL на Trustpilot/buki.org.pl/reviews — той самий корпус, без нових дат (source: [buki.org.pl/reviews](https://buki.org.pl/reviews/)). У видачі по BUKI згадано «запуск сервісу в Мексиці» на buki.com.ua/news — дата публікації невідома, перевірити не вдалося: домен заблоковано egress-проксі (needs verification, не логовано як нову згадку). Для Mathema, AllRight, Tutlo нічого нового.
 
 Джерела перевірених запитів: buki.com.ua, buki.org.pl, bukischool.com.pl, pl.trustpilot.com, pap.pl, sifted.eu, prnewswire.com, finance.yahoo.com, natlawreview.com, crunchbase.com, app.dealroom.co, znohub.online, 44.ua, znayshov.com.
+
+## [2026-10-07] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередній запис — 2026-09-30.
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий або "вічнозелений" контент: загальні сторінки BUKI на education.ua та osvita.ua (source: [education.ua](https://www.education.ua/courses/company/3538/)); Preply — unicorn-раунд $150M (січень 2026) та набір фахівців в Україні, вже відомі з [preply.md](preply.md) (source: [dev.ua](https://dev.ua/en/news/preply-shukaie-fakhivtsiv-v-ukrainskyi-ofis-za-donat-1778856616)); Superprof PL — рейтинг роботодавця на Indeed (станом на 07.07.2026), без нових подій (source: [pl.indeed.com](https://pl.indeed.com/cmp/Superprof/reviews)). Для Mathema, AllRight, Tutlo, Znohub нічого релевантного (needs verification: WebSearch не підтримує фільтр за датою публікації).
 
 ## Related pages
 
