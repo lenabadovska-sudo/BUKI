@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-10-07
+Last updated: 2026-10-08
 
 ---
 
@@ -167,6 +167,14 @@ Last updated: 2026-10-07
 **Результат: нових датованих згадок за вікно не знайдено.**
 
 Усі знахідки — вже відомий або "вічнозелений" контент: загальні сторінки BUKI на education.ua та osvita.ua (source: [education.ua](https://www.education.ua/courses/company/3538/)); Preply — unicorn-раунд $150M (січень 2026) та набір фахівців в Україні, вже відомі з [preply.md](preply.md) (source: [dev.ua](https://dev.ua/en/news/preply-shukaie-fakhivtsiv-v-ukrainskyi-ofis-za-donat-1778856616)); Superprof PL — рейтинг роботодавця на Indeed (станом на 07.07.2026), без нових подій (source: [pl.indeed.com](https://pl.indeed.com/cmp/Superprof/reviews)). Для Mathema, AllRight, Tutlo, Znohub нічого релевантного (needs verification: WebSearch не підтримує фільтр за датою публікації).
+
+## [2026-10-08] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередній запис — 2026-10-07.
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий або "вічнозелений" контент: огляди osvita.ua та root-nation.com із BUKI у списках репетиторських сервісів, відгуки BUKI на Trustpilot (той самий корпус скарг, без нових дат) (source: [osvita.ua](https://osvita.ua/school/96073/), [trustpilot.com](https://nl.trustpilot.com/review/buki.com.ua)); Preply — Series D $150M (січень 2026), вже в [preply.md](preply.md) (source: [westcap.com](https://www.westcap.com/portfolio/preply)); Superprof PL — сторінки Trustpilot без дат (source: [trustpilot.com](https://www.trustpilot.com/review/superprof.pl)); Mathema/Znohub — продуктові сторінки та вакансії без датованих новин (source: [education.ua](https://www.education.ua/courses/company/34063/)); AllRight і Tutlo — нічого релевантного (needs verification: WebSearch не підтримує фільтр за датою публікації).
 
 ## Related pages
 
