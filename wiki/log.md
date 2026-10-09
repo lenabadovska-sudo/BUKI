@@ -479,3 +479,6 @@ Figma-дошка: план акаунту тепер показує tier "pro" (
 
 ## [2026-10-08] медіамоніторинг
 - Щоденний скан згадок BUKI/Preply/Superprof/Mathema/AllRight/Znohub/Tutlo (UA/PL/EN): нових згадок не знайдено (0). Додано запис у [competitors/media-monitoring.md](competitors/media-monitoring.md). Лист не надсилався.
+
+## [2026-10-09] медіамоніторинг
+- Щоденний скан згадок BUKI/Preply/Superprof/Mathema/AllRight/Znohub/Tutlo (UA/PL/EN): нових згадок не знайдено (0). Додано запис у [competitors/media-monitoring.md](competitors/media-monitoring.md). Лист не надсилався.
