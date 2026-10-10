@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-10-09
+Last updated: 2026-10-10
 
 ---
 
@@ -183,6 +183,14 @@ Last updated: 2026-10-09
 **Результат: нових датованих згадок за вікно не знайдено.**
 
 Усі знахідки — вже відомий або "вічнозелений" контент: Trustpilot та огляди osvita.ua/root-nation.com по BUKI (той самий корпус, без нових дат) (source: [trustpilot.com](https://nl.trustpilot.com/review/buki.com.ua), [osvita.ua](https://osvita.ua/school/96073/)); сторінки buki.org.pl та стаття rmf24.pl про корепетиції для дорослих — дата не встановлена (needs verification) (source: [rmf24.pl](https://www.rmf24.pl/regiony/warszawa/news-korepetycje-dla-doroslych-online-5-serwisow-gdzie-mozna-uczy,nId,8089105)); Preply — Series D $150M (січень 2026) та кейс OpenAI (червень 2026), вже відомі (source: [westcap.com](https://www.westcap.com/portfolio/preply)); Superprof PL — Trustpilot/Indeed без нових дат (source: [pl.indeed.com](https://pl.indeed.com/cmp/Superprof/reviews)). Для Mathema, AllRight, Znohub, Tutlo релевантних результатів немає (needs verification: WebSearch не підтримує фільтр за датою публікації).
+
+## [2026-10-10] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередній запис — 2026-10-09.
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий або "вічнозелений" контент: огляди osvita.ua та root-nation.com із BUKI, сторінки BUKI/BUKI School на Trustpilot без нових дат (source: [osvita.ua](https://osvita.ua/school/96073/), [root-nation.com](https://root-nation.com/ua/articles-ua/company-ua/ua-top-12-ukrainskih-servisiv-dlya-repetitoriv/), [trustpilot.com](https://nl.trustpilot.com/review/buki.com.ua)); Preply — найновіше у видачі лютий 2025 (Speak Ukraine) та Series D січня 2026, вже в [preply.md](preply.md) (source: [en.ain.ua](https://en.ain.ua/2025/02/27/ukrainian-edtech-preply-launches-a-campaign-to-support-the-ukrainian-language-and-culture)); Superprof — сторінки Trustpilot/Indeed без нових дат (source: [trustpilot.com](https://au.trustpilot.com/review/superprof.com)); Mathema, Znohub, AllRight — лише довідкові сторінки, вакансії та спонсоровані статті 2022–2024 (source: [fakty.com.ua](https://fakty.com.ua/ua/ukraine/suspilstvo/20240831-zrobit-pershyj-krok-do-uspihu-pryyednujtes-do-mathema-sogodni/), [education.ua](https://www.education.ua/courses/company/34063/)); Tutlo — окремих нових згадок немає.
 
 ## Related pages
 
