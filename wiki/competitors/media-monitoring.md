@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-10-11
+Last updated: 2026-10-12
 
 ---
 
@@ -199,6 +199,14 @@ Last updated: 2026-10-11
 **Результат: нових датованих згадок за вікно не знайдено.**
 
 Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — education.ua, спонсорські статті thepage.ua (2023) та Trustpilot без нових дат (source: [education.ua](https://www.education.ua/courses/company/3538/), [trustpilot.com](https://nl.trustpilot.com/review/buki.com.ua)); BUKI PL — Trustpilot і сторінки buki.org.pl (source: [trustpilot.com](https://nl.trustpilot.com/review/buki.org.pl)); Preply — Series D $150M (січень 2026) та кейс OpenAI (12.06.2026), вже відомі (source: [westcap.com](https://www.westcap.com/portfolio/preply)); Superprof — Trustpilot/Indeed без нових дат (source: [pl.indeed.com](https://pl.indeed.com/cmp/Superprof/reviews)); Mathema — лише вакансії DOU та стаття dev.ua 2022 (source: [dev.ua](https://dev.ua/en/news/edtech-matema-kolyshnoho-zhurnalista-vitaliia-shkilia-zapustyvsia-u-polshchi-1661436783)); AllRight — програма Future Perfect на kmu.gov.ua (дата не вказана) (source: [kmu.gov.ua](https://www.kmu.gov.ua/news/bezoplatna-anhliiska-dlia-ditei-onlain-shkola-all-right-pryiednalasia-do-movnoi-prohramy-future-perfect)); Tutlo — Trustpilot, Indeed (source: [trustpilot.com](https://au.trustpilot.com/review/tutlo.com)); Znohub — нічого релевантного (needs verification: WebSearch не підтримує фільтр за датою публікації).
+
+## [2026-10-12] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередній запис — 2026-10-11.
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — osvita.ua, root-nation.com, Trustpilot (UA/PL, той самий корпус відгуків), вакансії DOU (source: [osvita.ua](https://osvita.ua/school/96073/), [trustpilot.com](https://ca.trustpilot.com/review/buki.org.pl)); Preply — Series D $150M (січень 2026) та кейс OpenAI (12.06.2026), вже відомі з [preply.md](preply.md) (source: [westcap.com](https://www.westcap.com/portfolio/preply)); Superprof — угоди 2026 (Ripetizioni.it, Profes 08.06.2026, Skuola.Net 12.05.2026, Tutors.com — вже залоговано 2026-09-13) без нових подій (source: [cfnews.net](https://www.cfnews.net/Acces-libre/Superprof-fait-sa-lecon-en-Italie-704985)); Znohub — лише недатована вакансія work.ua (source: [work.ua](https://www.work.ua/ru/jobs/8352339/)); Mathema, AllRight, Tutlo — нічого релевантного (needs verification: WebSearch не підтримує фільтр за датою публікації).
 
 ## Related pages
 
