@@ -4,6 +4,16 @@ Append-only лог усіх операцій над wiki.
 
 ---
 
+## 2026-10-19 — щотижневий competitive watch: найспокійніший тиждень, нових подій не знайдено
+
+Запуск `competitive-watch-agent` за планом (кроки 0-4, виконані напряму в цій сесії, без async subagent — попередній запуск через Agent-tool загубив результат). Прожено `competitor-site-watch` по всіх чотирьох конкурентах з [competitors/index.md](competitors/index.md). Усі чотири домени (`preply.com`, `www.superprof.pl`, `www.gostudent.org`, `tutlo.com`) підтвердили `ENOTFOUND` при WebFetch — сьомий тиждень поспіль для Preply/Superprof, четвертий для GoStudent/Tutlo. Перемкнулись на WebSearch для всіх — **у жодного з чотирьох конкурентів не знайдено нової датованої події** у вікні 2026-10-12–2026-10-19. Накопичувальну Figma-дошку дописано новою колонкою 2026-10-19 (header + 4 week-cells, auto-layout розширив дошку автоматично).
+
+Оновлено:
+- `wiki/competitors/preply.md`, `superprof.md`, `gostudent.md`, `tutlo.md` — додано датовані записи [2026-10-19], оновлено `Last updated`
+- `wiki/competitors/reviews/2026-10-19-weekly-brief.md` — створено новий тижневий бриф
+- `wiki/competitors/index.md` — таблиця останніх записів, посилання на новий бриф, нотатка про Figma-дошку (6 колонок)
+- `wiki/index.md` — `Last updated`, описи сторінок конкурентів, посилання на новий бриф
+
 ## 2026-09-28 — щоденний медіамоніторинг: нових згадок не знайдено
 
 Автоматизований запуск медіамоніторингу (WebSearch, укр./пол./англ. запити) по брендах BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Вікно ~48 год (попередня перевірка — 2026-09-26). Додатково перевірено точкові запити на фінансування/M&A/партнерства (Preply, Superprof, AllRight, GoStudent), відгуки/скарги (BUKI, Reddit, форуми) і окремо Mathema/Znohub. **Нових датованих згадок за вікно не знайдено** — лист на пошту не надсилався (за протоколом задачі).
