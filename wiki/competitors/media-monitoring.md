@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-10-21
+Last updated: 2026-10-22
 
 ---
 
@@ -273,6 +273,14 @@ Last updated: 2026-10-21
 ### Без змін
 
 BUKI — вакансії DOU, огляд osvita.ua, Trustpilot UA (квітень–травень 2026) (source: [jobs.dou.ua](https://jobs.dou.ua/companies/buki/vacancies/376438/), [osvita.ua](https://osvita.ua/school/96073/)); BUKI PL — Trustpilot PL (4,5/5, ~303 відгуки, найновіші — лютий 2026; основна критика — комісія для репетиторів), PAP, rmf24.pl — вже відомо (source: [trustpilot.com](https://ca.trustpilot.com/review/buki.org.pl), [pap.pl](https://www.pap.pl/mediaroom/rynek-korepetycji-w-polsce-2025-najpopularniejsze-platformy-skala-zjawiska-i-najczesciej)); Preply — Series D та кейс OpenAI вже в [preply.md](preply.md); Superprof — угоди Ripetizioni.it / Profes / Skuola.Net вже відомі (source: [cfnews.net](https://www.cfnews.net/Acces-libre/Superprof-fait-sa-lecon-en-Italie-704985)); Znohub, Mathema — старі матеріали та відгуки vidhuk.ua (source: [vidhuk.ua](https://www.vidhuk.ua/uk/znohub)); AllRight, Tutlo — нічого релевантного.
+
+## [2026-10-22] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередній запис — 2026-10-21.
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — огляди osvita.ua, root-nation.com, вакансії DOU (вересень 2026), Trustpilot (відповідь компанії на скаргу, без дати) (source: [osvita.ua](https://osvita.ua/school/96073/), [jobs.dou.ua](https://jobs.dou.ua/companies/buki/vacancies/373784/)); BUKI PL / Tutlo / Superprof PL / Preply PL — звіт PAP, rmf24.pl, papora.com, вже залоговано (source: [pap.pl](https://www.pap.pl/mediaroom/rynek-korepetycji-w-polsce-2025-najpopularniejsze-platformy-skala-zjawiska-i-najczesciej)); Preply — призначення CPO / VP Data Science (14.10) вже залоговано 21.10, Series D та кейс OpenAI вже в [preply.md](preply.md) (source: [yespress.io](https://yespress.io/preply.md)); Superprof — угоди Ripetizioni.it / Profes / Skuola.Net вже відомі (source: [cfnews.net](https://www.cfnews.net/Acces-libre/Superprof-fait-sa-lecon-en-Italie-704985)); Mathema, Znohub, AllRight — нічого релевантного (needs verification: WebSearch не підтримує фільтр за датою публікації).
 
 ## Related pages
 
