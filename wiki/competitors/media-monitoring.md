@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-10-21
+Last updated: 2026-10-23
 
 ---
 
@@ -273,6 +273,14 @@ Last updated: 2026-10-21
 ### Без змін
 
 BUKI — вакансії DOU, огляд osvita.ua, Trustpilot UA (квітень–травень 2026) (source: [jobs.dou.ua](https://jobs.dou.ua/companies/buki/vacancies/376438/), [osvita.ua](https://osvita.ua/school/96073/)); BUKI PL — Trustpilot PL (4,5/5, ~303 відгуки, найновіші — лютий 2026; основна критика — комісія для репетиторів), PAP, rmf24.pl — вже відомо (source: [trustpilot.com](https://ca.trustpilot.com/review/buki.org.pl), [pap.pl](https://www.pap.pl/mediaroom/rynek-korepetycji-w-polsce-2025-najpopularniejsze-platformy-skala-zjawiska-i-najczesciej)); Preply — Series D та кейс OpenAI вже в [preply.md](preply.md); Superprof — угоди Ripetizioni.it / Profes / Skuola.Net вже відомі (source: [cfnews.net](https://www.cfnews.net/Acces-libre/Superprof-fait-sa-lecon-en-Italie-704985)); Znohub, Mathema — старі матеріали та відгуки vidhuk.ua (source: [vidhuk.ua](https://www.vidhuk.ua/uk/znohub)); AllRight, Tutlo — нічого релевантного.
+
+## [2026-10-23] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередній запис — 2026-10-21.
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — osvita.ua, Trustpilot, вакансії DOU (source: [osvita.ua](https://osvita.ua/school/96073/), [trustpilot.com](https://nl.trustpilot.com/review/buki.com.ua)); Preply — Series D $150M (січень 2026), вже в [preply.md](preply.md) (source: [interfax.com.ua](https://interfax.com.ua/news/investments/846242.html)); Superprof PL — відгуки Trustpilot без нових дат (source: [trustpilot.com](https://www.trustpilot.com/review/superprof.pl)); Znohub — вакансія work.ua (дата не вказана, needs verification) (source: [work.ua](https://www.work.ua/ru/jobs/8352339/)); Mathema, AllRight, Tutlo — нічого релевантного (needs verification: WebSearch не підтримує фільтр за датою публікації).
 
 ## Related pages
 
