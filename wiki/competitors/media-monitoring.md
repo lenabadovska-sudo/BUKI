@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24
 
 ---
 
@@ -281,6 +281,14 @@ BUKI — вакансії DOU, огляд osvita.ua, Trustpilot UA (квітен
 **Результат: нових датованих згадок за вікно не знайдено.**
 
 Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — osvita.ua, Trustpilot, вакансії DOU (source: [osvita.ua](https://osvita.ua/school/96073/), [trustpilot.com](https://nl.trustpilot.com/review/buki.com.ua)); Preply — Series D $150M (січень 2026), вже в [preply.md](preply.md) (source: [interfax.com.ua](https://interfax.com.ua/news/investments/846242.html)); Superprof PL — відгуки Trustpilot без нових дат (source: [trustpilot.com](https://www.trustpilot.com/review/superprof.pl)); Znohub — вакансія work.ua (дата не вказана, needs verification) (source: [work.ua](https://www.work.ua/ru/jobs/8352339/)); Mathema, AllRight, Tutlo — нічого релевантного (needs verification: WebSearch не підтримує фільтр за датою публікації).
+
+## [2026-10-24] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередній запис — 2026-10-23.
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — вакансії DOU (Head of Accounting від 13.10.2026 — найм), osvita.ua, Trustpilot UA (source: [jobs.dou.ua](https://jobs.dou.ua/companies/buki/vacancies/376438/), [osvita.ua](https://osvita.ua/school/96073/)); BUKI PL — Trustpilot PL (4,5/5, ~304 відгуки), PAP (source: [trustpilot.com](https://ca.trustpilot.com/review/buki.org.pl), [pap.pl](https://www.pap.pl/mediaroom/rynek-korepetycji-w-polsce-2025-najpopularniejsze-platformy-skala-zjawiska-i-najczesciej)); Preply — прес-матеріал від 14.10.2026 вже залоговано 2026-10-21, Series D (січень 2026) (source: [yespress.io](https://yespress.io/preply.md)); Znohub — лише вакансії work.ua (source: [work.ua](https://www.work.ua/jobs/8365575/)). Superprof, Mathema, AllRight, Tutlo — згадок не знайдено. Польські огляди Preply на univext.com — без чіткої дати, від конкурента (необ'єктивне джерело), у лог не внесено (source: [univext.com](https://univext.com/pl/blog/329/preply-recenzja-2026)).
 
 ## Related pages
 
