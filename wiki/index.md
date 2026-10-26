@@ -2,7 +2,7 @@
 
 Карта всіх сторінок wiki BUKI.
 
-Last updated: 2026-10-19
+Last updated: 2026-10-26
 
 ---
 
@@ -25,11 +25,12 @@ Last updated: 2026-10-19
 ## Конкуренти
 
 - [competitors/index.md](competitors/index.md) — індекс живого спостереження за конкурентами
-- [competitors/preply.md](competitors/preply.md) — Preply, append-only лог (global + Польща): unicorn-раунд $1,2 млрд (січень 2026), AI-фічі на OpenAI (70%+ adoption Lesson Insights), протистояння з Duolingo, найбільша Online Teaching Conference (25–26.09.2026); сьомий тиждень поспіль без прямого сайт-диффу (ENOTFOUND)
-- [competitors/superprof.md](competitors/superprof.md) — Superprof, append-only лог (Польща): підписка 59 zł/міс + опційна комісія 10%, серійний консолідатор (21 поглинання, Tutors.com 09.2026), темп M&A загальмувався — четвертий тиждень поспіль без нової угоди
+- [competitors/preply.md](competitors/preply.md) — Preply, append-only лог (global + Польща): unicorn-раунд $1,2 млрд (січень 2026), AI-фічі на OpenAI (70%+ adoption Lesson Insights), протистояння з Duolingo, найбільша Online Teaching Conference (25–26.09.2026); восьмий тиждень поспіль без прямого сайт-диффу (ENOTFOUND)
+- [competitors/superprof.md](competitors/superprof.md) — Superprof, append-only лог (Польща): підписка 59 zł/міс + опційна комісія 10%, серійний консолідатор (21 поглинання, Tutors.com 09.2026), темп M&A загальмувався — п'ятий тиждень поспіль без нової угоди
 - [competitors/gostudent.md](competitors/gostudent.md) — GoStudent, append-only лог (global, Австрія): unicorn K-12 репетиторство, підписка за пакетом уроків, AI-фічі (recap, Magic Quizzes) вбудовано в продукт, купівля Berlitz Deutschland (угода ще не закрита, closing заплановано до кінця 2026, ризик держсубсидій з 2027)
-- [competitors/tutlo.md](competitors/tutlo.md) — Tutlo, append-only лог (Польща): монопродукт (тільки англійська), ціна за 20-хв урок 22–29 zł залежно від каналу, нестиковка — можливий перехід на тірову підписку від 149 zł/міс лишається непідтвердженою (needs verification)
+- [competitors/tutlo.md](competitors/tutlo.md) — Tutlo, append-only лог (Польща): монопродукт (тільки англійська), ціна за 20-хв урок 22–29 zł залежно від каналу, нестиковка — можливий перехід на тірову підписку від 149 zł/міс лишається непідтвердженою (needs verification); новий сигнал — EMIS-профіль показує +417% зростання виручки компанії за 2025 рік (needs verification)
 - [competitors/media-monitoring.md](competitors/media-monitoring.md) — щоденний медіамоніторинг нових згадок BUKI/Preply/Superprof/Mathema/AllRight/Znohub/Tutlo в новинах, соцмережах, на сайтах відгуків
+- [competitors/reviews/2026-10-26-weekly-brief.md](competitors/reviews/2026-10-26-weekly-brief.md) — тижневий бриф 26.10 (рівний тижневий цикл): Preply/Superprof/GoStudent без жодної нової події; топ-1 інсайт — Tutlo показав +417% зростання виручки за 2025 рік (EMIS, needs verification), перший фінансовий сигнал про цього конкурента. Figma-дошку дописано колонкою 10.26 (7 колонок)
 - [competitors/reviews/2026-10-19-weekly-brief.md](competitors/reviews/2026-10-19-weekly-brief.md) — тижневий бриф 19.10 (рівний тижневий цикл): найспокійніший тиждень спостереження — без жодної нової події в усіх чотирьох конкурентів. Figma-дошку дописано колонкою 10.19
 - [competitors/reviews/2026-10-12-weekly-brief.md](competitors/reviews/2026-10-12-weekly-brief.md) — тижневий бриф 12.10 (двотижневе вікно, 05.10 пропущено): жодної нової угоди в жодного конкурента; топ-1 інсайт — GoStudent–Berlitz угода ще не закрита, виявлено ризик держсубсидій. Figma-дошку дописано колонкою 10.12
 - [competitors/reviews/2026-09-28-weekly-brief.md](competitors/reviews/2026-09-28-weekly-brief.md) — тижневий бриф 28.09: топ-подія — GoStudent купив Berlitz Deutschland (~50 мовних центрів, ~€40М виручки), пропущено 21.09; Figma-дошку дописано колонками 21.09+28.09 і новими рядками GoStudent/Tutlo

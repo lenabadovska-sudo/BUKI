@@ -4,6 +4,22 @@ Append-only лог усіх операцій над wiki.
 
 ---
 
+## 2026-10-26 — щотижневий competitive watch: Preply/Superprof/GoStudent без подій, новий фінансовий сигнал по Tutlo
+
+Запуск `competitive-watch-agent` за планом (кроки 0-4 з `.claude/agents/competitive-watch-agent.md`, виконані напряму в цій сесії, синхронно, без Agent/Task tool — за прямою вказівкою в прompt'і тригера, щоб уникнути повторення випадку втраченого background-результату). `git pull origin main` — без змін.
+
+Прожено `competitor-site-watch` по всіх чотирьох конкурентах з [competitors/index.md](competitors/index.md). Усі чотири домени (`preply.com`, `www.superprof.pl`, `www.gostudent.org`, `tutlo.com`) знову підтвердили `ENOTFOUND` при WebFetch — восьмий тиждень поспіль для Preply/Superprof, п'ятий для GoStudent/Tutlo. Перемкнулись на WebSearch для всіх.
+
+У Preply, Superprof і GoStudent — **без нових датованих подій** у вікні 2026-10-19–2026-10-26 (другий спокійний тиждень поспіль для Preply; пауза в M&A Superprof — п'ятий тиждень; угода GoStudent–Berlitz лишається pending, closing заявлений на кінець року). У Tutlo — цінова плутанина (29/22/~16,5/149 zł) без прогресу, але цілеспрямований пошук фінансування компанії дав **новий факт, раніше не зафіксований**: корпоративний профіль EMIS показує зростання чистого доходу Tutlo sp. z o.o. на +417,57% за 2025 рік (потребує верифікації — ефект низької бази не виключений).
+
+Накопичувальну Figma-дошку дописано новою колонкою 2026-10-26 (header + 4 week-cells, клоновано з колонки 2026-10-19, auto-layout розширив усі контейнери автоматично: Grid 2536→2932px, outer frame 2632→3028px) — перевірено скріншотом, текст не обрізається, колонка вирівняна (7-ма колонка загалом).
+
+Оновлено:
+- `wiki/competitors/preply.md`, `superprof.md`, `gostudent.md`, `tutlo.md` — додано датовані записи [2026-10-26], оновлено `Last updated`
+- `wiki/competitors/reviews/2026-10-26-weekly-brief.md` — створено новий тижневий бриф
+- `wiki/competitors/index.md` — таблиця останніх записів, посилання на новий бриф, нотатка про Figma-дошку (7 колонок)
+- `wiki/index.md` — `Last updated`, описи сторінок конкурентів, посилання на новий бриф
+
 ## 2026-10-19 — щотижневий competitive watch: найспокійніший тиждень, нових подій не знайдено
 
 Запуск `competitive-watch-agent` за планом (кроки 0-4, виконані напряму в цій сесії, без async subagent — попередній запуск через Agent-tool загубив результат). Прожено `competitor-site-watch` по всіх чотирьох конкурентах з [competitors/index.md](competitors/index.md). Усі чотири домени (`preply.com`, `www.superprof.pl`, `www.gostudent.org`, `tutlo.com`) підтвердили `ENOTFOUND` при WebFetch — сьомий тиждень поспіль для Preply/Superprof, четвертий для GoStudent/Tutlo. Перемкнулись на WebSearch для всіх — **у жодного з чотирьох конкурентів не знайдено нової датованої події** у вікні 2026-10-12–2026-10-19. Накопичувальну Figma-дошку дописано новою колонкою 2026-10-19 (header + 4 week-cells, auto-layout розширив дошку автоматично).
