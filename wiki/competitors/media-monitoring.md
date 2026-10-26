@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-10-24
+Last updated: 2026-10-26
 
 ---
 
@@ -289,6 +289,14 @@ BUKI — вакансії DOU, огляд osvita.ua, Trustpilot UA (квітен
 **Результат: нових датованих згадок за вікно не знайдено.**
 
 Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — вакансії DOU (Head of Accounting від 13.10.2026 — найм), osvita.ua, Trustpilot UA (source: [jobs.dou.ua](https://jobs.dou.ua/companies/buki/vacancies/376438/), [osvita.ua](https://osvita.ua/school/96073/)); BUKI PL — Trustpilot PL (4,5/5, ~304 відгуки), PAP (source: [trustpilot.com](https://ca.trustpilot.com/review/buki.org.pl), [pap.pl](https://www.pap.pl/mediaroom/rynek-korepetycji-w-polsce-2025-najpopularniejsze-platformy-skala-zjawiska-i-najczesciej)); Preply — прес-матеріал від 14.10.2026 вже залоговано 2026-10-21, Series D (січень 2026) (source: [yespress.io](https://yespress.io/preply.md)); Znohub — лише вакансії work.ua (source: [work.ua](https://www.work.ua/jobs/8365575/)). Superprof, Mathema, AllRight, Tutlo — згадок не знайдено. Польські огляди Preply на univext.com — без чіткої дати, від конкурента (необ'єктивне джерело), у лог не внесено (source: [univext.com](https://univext.com/pl/blog/329/preply-recenzja-2026)).
+
+## [2026-10-26] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередній запис — 2026-10-24.
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — osvita.ua, root-nation.com, espreso.tv (червень 2026), вакансії DOU (Head of Accounting від 13.10.2026 — найм), Trustpilot UA (source: [osvita.ua](https://osvita.ua/school/96073/), [jobs.dou.ua](https://jobs.dou.ua/companies/buki/vacancies/376438/)); Preply — призначення Chief People Officer / VP Data Science від 14.10.2026 вже залоговано 2026-10-21, Series D (січень 2026) вже в [preply.md](preply.md) (source: [yespress.io](https://yespress.io/preply.md)); Superprof, Mathema, AllRight (PL) — лише вакансії викладачів на praca.pl / pracuj.pl без новин (source: [praca.pl](https://www.praca.pl/nauczyciel-jezyka-angielskiego_8703358.html)); Tutlo, Znohub — нічого релевантного (needs verification: WebSearch не підтримує фільтр за датою публікації).
 
 ## Related pages
 
