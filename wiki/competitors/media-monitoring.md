@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-10-26
+Last updated: 2026-10-27
 
 ---
 
@@ -297,6 +297,14 @@ BUKI — вакансії DOU, огляд osvita.ua, Trustpilot UA (квітен
 **Результат: нових датованих згадок за вікно не знайдено.**
 
 Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — osvita.ua, root-nation.com, espreso.tv (червень 2026), вакансії DOU (Head of Accounting від 13.10.2026 — найм), Trustpilot UA (source: [osvita.ua](https://osvita.ua/school/96073/), [jobs.dou.ua](https://jobs.dou.ua/companies/buki/vacancies/376438/)); Preply — призначення Chief People Officer / VP Data Science від 14.10.2026 вже залоговано 2026-10-21, Series D (січень 2026) вже в [preply.md](preply.md) (source: [yespress.io](https://yespress.io/preply.md)); Superprof, Mathema, AllRight (PL) — лише вакансії викладачів на praca.pl / pracuj.pl без новин (source: [praca.pl](https://www.praca.pl/nauczyciel-jezyka-angielskiego_8703358.html)); Tutlo, Znohub — нічого релевантного (needs verification: WebSearch не підтримує фільтр за датою публікації).
+
+## [2026-10-27] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередній запис — 2026-10-26.
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — osvita.ua, root-nation.com, education.ua, Trustpilot (source: [osvita.ua](https://osvita.ua/school/96073/), [root-nation.com](https://root-nation.com/ua/articles-ua/company-ua/ua-top-12-ukrainskih-servisiv-dlya-repetitoriv/)); Preply — новина DOU про стажування AI Talent Accelerator (набір до 2 жовтня 2026, старт 19 жовтня) — публікація не свіжа, поза вікном 24–48 год, у лог як нова згадка не внесена (source: [dou.ua](https://dou.ua/lenta/news/preply-ai-program/)); Superprof PL — Trustpilot без нових дат (source: [trustpilot.com](https://www.trustpilot.com/review/superprof.pl)); Mathema, Znohub — лише вакансії (source: [jobs.dou.ua](https://jobs.dou.ua/companies/mathema/vacancies/341774/)); AllRight, Tutlo — нічого релевантного (needs verification: WebSearch не підтримує фільтр за датою публікації).
 
 ## Related pages
 
