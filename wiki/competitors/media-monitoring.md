@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-10-28
+Last updated: 2026-10-29
 
 ---
 
@@ -313,6 +313,14 @@ BUKI — вакансії DOU, огляд osvita.ua, Trustpilot UA (квітен
 **Результат: нових датованих згадок за вікно не знайдено.**
 
 Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — osvita.ua, education.ua, picodi (source: [osvita.ua](https://osvita.ua/school/96073/), [education.ua](https://www.education.ua/ua/courses/company/3538/)); Preply — новина DOU про AI-стажування (не свіжа, вже відзначена 2026-10-27), призначення Chief People Officer / VP Data Science від 14.10.2026 вже залоговано 2026-10-21, Series D — у [preply.md](preply.md) (source: [dou.ua](https://dou.ua/lenta/news/preply-ai-program/), [yespress.io](https://yespress.io/preply.md)); Superprof PL — відгуки Indeed/Trustpilot без нових подій (source: [pl.indeed.com](https://pl.indeed.com/cmp/Superprof/reviews)); Mathema, Znohub, AllRight — старі матеріали 2022–2024 та вакансії (source: [fakty.com.ua](https://fakty.com.ua/ru/ukraine/suspilstvo/20240831-zrobit-pershyj-krok-do-uspihu-pryyednujtes-do-mathema-sogodni/), [work.ua](https://www.work.ua/ru/jobs/8352339/)); Tutlo — згадок не знайдено (needs verification: WebSearch не підтримує фільтр за датою публікації).
+
+## [2026-10-29] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередній запис — 2026-10-28.
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — osvita.ua, root-nation.com, Trustpilot, вакансії DOU (Head of Accounting — найм) (source: [osvita.ua](https://osvita.ua/school/96073/), [jobs.dou.ua](https://jobs.dou.ua/companies/buki/vacancies/373784/)); Preply — призначення Chief People Officer / VP Data Science від 14.10.2026 вже залоговано 2026-10-21, Series D (січень 2026) — у [preply.md](preply.md) (source: [yespress.io](https://yespress.io/preply.md)); Superprof PL — лише вакансії на aplikuj.pl / zielonalinia.gov.pl (source: [aplikuj.pl](https://www.aplikuj.pl/oferta/3271325/nauczyciel-korepetytor-trener-umowa-o-prace-superprof)); Znohub — довідкова сторінка education.ua та вакансія work.ua (source: [education.ua](https://www.education.ua/courses/company/34837/)); Mathema, AllRight, Tutlo — нічого релевантного (needs verification: WebSearch не підтримує фільтр за датою публікації).
 
 ## Related pages
 
