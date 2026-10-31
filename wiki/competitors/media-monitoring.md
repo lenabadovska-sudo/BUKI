@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-10-30
+Last updated: 2026-10-31
 
 ---
 
@@ -329,6 +329,14 @@ BUKI — вакансії DOU, огляд osvita.ua, Trustpilot UA (квітен
 **Результат: нових датованих згадок за вікно не знайдено.**
 
 Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — osvita.ua, root-nation.com, Trustpilot, вакансії DOU (source: [osvita.ua](https://osvita.ua/school/96073/), [jobs.dou.ua](https://jobs.dou.ua/companies/buki/vacancies/373784/)); Preply — призначення Chief People Officer / VP Data Science від 14.10.2026 вже залоговано 2026-10-21, Series D (січень 2026) — у [preply.md](preply.md) (source: [yespress.io](https://yespress.io/preply.md)); Superprof — Trustpilot (не PL) та вакансії (source: [pl.trustpilot.com](https://pl.trustpilot.com/review/superprof.com)); Mathema, AllRight — лише вакансії (source: [rocketjobs.pl](https://rocketjobs.pl/oferta-pracy/mathema-me-korepetytor-korepetytorka---nauczyciel-nauczycielka-z-matematyki-online--warszawa-edukacja-szkolnictwo)); Tutlo, Znohub — нічого (needs verification: WebSearch не підтримує фільтр за датою публікації).
+
+## [2026-10-31] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередній запис — 2026-10-30.
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — osvita.ua, root-nation.com, education.ua, Trustpilot UA (відгук травня 2026), матеріал karpaty.net.ua про ринок репетиторства (липень 2026, поза вікном) (source: [osvita.ua](https://osvita.ua/school/78942/), [karpaty.net.ua](https://karpaty.net.ua/ru/yak-znajty-uchniv-na-repetytorstvo/)); BUKI PL — Trustpilot PL (4,5/5, ~303 відгуки) та звіт PAP, вже залоговано (source: [trustpilot.com](https://ca.trustpilot.com/review/buki.org.pl), [pap.pl](https://www.pap.pl/mediaroom/rynek-korepetycji-w-polsce-2025-najpopularniejsze-platformy-skala-zjawiska-i-najczesciej)); Preply — призначення Chief People Officer / VP Data Science від 14.10.2026 вже залоговано 2026-10-21, Series D (січень 2026) — у [preply.md](preply.md) (source: [yespress.io](https://yespress.io/preply.md)); Superprof — вакансії та відгуки Trustpilot/Indeed без нових подій (source: [pl.indeed.com](https://pl.indeed.com/cmp/Superprof/reviews)); Znohub — вакансія work.ua (source: [work.ua](https://www.work.ua/ru/jobs/8352339/)); Mathema, AllRight, Tutlo — нічого релевантного (needs verification: WebSearch не підтримує фільтр за датою публікації).
 
 ## Related pages
 
