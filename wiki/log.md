@@ -4,6 +4,22 @@ Append-only лог усіх операцій над wiki.
 
 ---
 
+## 2026-11-02 — щотижневий competitive watch: Superprof/GoStudent без подій, ненадійний кадровий сигнал по Preply, нові деталі профілю Tutlo
+
+Запуск `competitive-watch-agent` за планом (кроки 0-4 з `.claude/agents/competitive-watch-agent.md`, виконані напряму в цій сесії, синхронно, без Agent/Task tool — за прямою вказівкою в prompt'і тригера). `git pull origin main` — без змін.
+
+Прожено `competitor-site-watch` по всіх чотирьох конкурентах з [competitors/index.md](competitors/index.md). Усі чотири домени (`preply.com`, `www.superprof.pl`, `www.gostudent.org`, `tutlo.com`) знову підтвердили `ENOTFOUND` при WebFetch — дев'ятий тиждень поспіль для Preply/Superprof, шостий для GoStudent/Tutlo. Перемкнулись на WebSearch для всіх.
+
+У Superprof і GoStudent — **без нових датованих подій** у вікні 2026-10-26–2026-11-02 (пауза в M&A Superprof — шостий тиждень; угода GoStudent–Berlitz лишається pending). У Preply — нова, але ненадійна деталь: за вторинним агрегатором yespress.io компанія 14.10 найняла Chief People Officer і VP Data Science (**потребує верифікації**, немає підтвердження на preply.com/newsroom). У Tutlo — кілька нових деталей профілю компанії (ім'я співзасновника Damian Strzelczyk, суперечливий рік заснування 2015 vs 2016, непідтверджена заява про глобальну експансію), усі з низькою надійністю джерела; окремо виявлено можливий псевдо-збіг назви з unicorn-nest.com (той самий тип ризику, що й раніше з Portal Profes/SuperProfs.com).
+
+Накопичувальну Figma-дошку дописано новою колонкою 2026-11-02 (header + 4 week-cells, стиль відтворено вручну за зразком колонки 2026-10-26: темний header з жовтим лейблом ТОП-1 ІНСАЙТ ТИЖНЯ, білі cells із сірим джерелом-лейблом; auto-layout розширив усі контейнери автоматично) — перевірено скріншотом обох типів клітинок, текст не обрізається (8-ма колонка загалом).
+
+Оновлено:
+- `wiki/competitors/preply.md`, `superprof.md`, `gostudent.md`, `tutlo.md` — додано датовані записи [2026-11-02], оновлено `Last updated`
+- `wiki/competitors/reviews/2026-11-02-weekly-brief.md` — створено новий тижневий бриф
+- `wiki/competitors/index.md` — таблиця останніх записів, посилання на новий бриф, нотатка про Figma-дошку (8 колонок)
+- `wiki/index.md` — `Last updated`, описи сторінок конкурентів, посилання на новий бриф
+
 ## 2026-10-26 — щотижневий competitive watch: Preply/Superprof/GoStudent без подій, новий фінансовий сигнал по Tutlo
 
 Запуск `competitive-watch-agent` за планом (кроки 0-4 з `.claude/agents/competitive-watch-agent.md`, виконані напряму в цій сесії, синхронно, без Agent/Task tool — за прямою вказівкою в прompt'і тригера, щоб уникнути повторення випадку втраченого background-результату). `git pull origin main` — без змін.
