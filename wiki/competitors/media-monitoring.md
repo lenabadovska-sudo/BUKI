@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-11-02
+Last updated: 2026-11-04
 
 ---
 
@@ -353,6 +353,14 @@ BUKI — вакансії DOU, огляд osvita.ua, Trustpilot UA (квітен
 **Результат: нових датованих згадок за вікно не знайдено.**
 
 Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — osvita.ua, root-nation.com, Trustpilot, вакансії DOU, karpaty.net.ua (липень 2026, поза вікном) (source: [osvita.ua](https://osvita.ua/school/78942/), [root-nation.com](https://root-nation.com/ua/articles-ua/company-ua/ua-top-12-ukrainskih-servisiv-dlya-repetitoriv/)); Preply — призначення Chief People Officer / VP Data Science від 14.10.2026 вже залоговано 2026-10-21, Series D — у [preply.md](preply.md) (source: [yespress.io](https://yespress.io/preply.md)); Superprof PL — відгуки Trustpilot/Indeed без нових подій (source: [trustpilot.com](https://www.trustpilot.com/review/superprof.pl)); Znohub, AllRight, Mathema, Tutlo — нічого (needs verification: WebSearch не підтримує фільтр за датою публікації).
+
+## [2026-11-04] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередній запис — 2026-11-02.
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — osvita.ua, root-nation.com, Trustpilot, вакансії DOU, karpaty.net.ua (липень 2026, поза вікном) (source: [osvita.ua](https://osvita.ua/school/96073/), [root-nation.com](https://root-nation.com/ua/articles-ua/company-ua/ua-top-12-ukrainskih-servisiv-dlya-repetitoriv/)); Preply — призначення Chief People Officer / VP Data Science від 14.10.2026, Series D (січень 2026), фіналіст EY Entrepreneur Of The Year — вже залоговано раніше (source: [yespress.io](https://yespress.io/preply.md), [preply.com](https://preply.com/en/blog/preply-co-founder-and-ceo-kirill-bigai-named-entrepreneur-of-the-year-2026-new-england-finalist-by-ey-us/)); Superprof, Tutlo — лише порівняльні листикли без дати; Znohub (vidhuk.ua), Mathema, AllRight (education.ua) — старі відгуки/новини (2022–2024) (source: [vidhuk.ua](https://www.vidhuk.ua/uk/znohub), [education.ua](https://www.education.ua/courses/company/34063/)) (needs verification: WebSearch не підтримує фільтр за датою публікації).
 
 ## Related pages
 
