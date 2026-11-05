@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-11-03
+Last updated: 2026-11-05
 
 ---
 
@@ -361,6 +361,14 @@ BUKI — вакансії DOU, огляд osvita.ua, Trustpilot UA (квітен
 **Результат: нових датованих згадок за вікно не знайдено.**
 
 Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — osvita.ua, root-nation.com, Trustpilot, вакансії DOU, karpaty.net.ua (липень 2026, поза вікном) (source: [osvita.ua](https://osvita.ua/school/78942/), [root-nation.com](https://root-nation.com/ua/articles-ua/company-ua/ua-top-12-ukrainskih-servisiv-dlya-repetitoriv/)); Preply — призначення Chief People Officer / VP Data Science від 14.10.2026 вже залоговано 2026-10-21, Series D (січень 2026) — у [preply.md](preply.md) (source: [yespress.io](https://yespress.io/preply.md)); Superprof PL — відгуки Trustpilot без нових подій (source: [trustpilot.com](https://www.trustpilot.com/review/superprof.pl)); Tutlo — лише профіль Trustpilot; Znohub, AllRight, Mathema — нічого (needs verification: WebSearch не підтримує фільтр за датою публікації).
+
+## [2026-11-05] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередній запис — 2026-11-03.
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — osvita.ua, root-nation.com, Trustpilot, вакансії DOU, karpaty.net.ua (липень 2026, поза вікном), PAP-звіт про ринок корепетицій PL (вже залоговано) (source: [osvita.ua](https://osvita.ua/school/78942/), [pap.pl](https://www.pap.pl/mediaroom/rynek-korepetycji-w-polsce-2025-najpopularniejsze-platformy-skala-zjawiska-i-najczesciej)); Preply — призначення Chief People Officer / VP Data Science від 14.10.2026 вже залоговано 2026-10-21, Series D (січень 2026) — у [preply.md](preply.md); фіналіст EY Entrepreneur Of The Year 2026 New England для CEO Kirill Bigai — без підтвердженого результату і дати, у лог не внесено (needs verification) (source: [yespress.io](https://yespress.io/preply.md), [preply.com](https://preply.com/en/blog/preply-co-founder-and-ceo-kirill-bigai-named-entrepreneur-of-the-year-2026-new-england-finalist-by-ey-us/)); Superprof PL — відгуки Trustpilot/Indeed та вакансії без нових подій (source: [trustpilot.com](https://www.trustpilot.com/review/superprof.pl)); Znohub, Mathema — лише вакансії work.ua та картка education.ua (source: [work.ua](https://www.work.ua/ru/jobs/8352339/)); AllRight, Tutlo — нічого (needs verification: WebSearch не підтримує фільтр за датою публікації).
 
 ## Related pages
 
