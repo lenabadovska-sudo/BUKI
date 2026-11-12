@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-11-05
+Last updated: 2026-11-12
 
 ---
 
@@ -369,6 +369,14 @@ BUKI — вакансії DOU, огляд osvita.ua, Trustpilot UA (квітен
 **Результат: нових датованих згадок за вікно не знайдено.**
 
 Усі знахідки — вже відомий або "вічнозелений" контент: BUKI — osvita.ua, root-nation.com, Trustpilot, вакансії DOU, karpaty.net.ua (липень 2026, поза вікном), PAP-звіт про ринок корепетицій PL (вже залоговано) (source: [osvita.ua](https://osvita.ua/school/78942/), [pap.pl](https://www.pap.pl/mediaroom/rynek-korepetycji-w-polsce-2025-najpopularniejsze-platformy-skala-zjawiska-i-najczesciej)); Preply — призначення Chief People Officer / VP Data Science від 14.10.2026 вже залоговано 2026-10-21, Series D (січень 2026) — у [preply.md](preply.md); фіналіст EY Entrepreneur Of The Year 2026 New England для CEO Kirill Bigai — без підтвердженого результату і дати, у лог не внесено (needs verification) (source: [yespress.io](https://yespress.io/preply.md), [preply.com](https://preply.com/en/blog/preply-co-founder-and-ceo-kirill-bigai-named-entrepreneur-of-the-year-2026-new-england-finalist-by-ey-us/)); Superprof PL — відгуки Trustpilot/Indeed та вакансії без нових подій (source: [trustpilot.com](https://www.trustpilot.com/review/superprof.pl)); Znohub, Mathema — лише вакансії work.ua та картка education.ua (source: [work.ua](https://www.work.ua/ru/jobs/8352339/)); AllRight, Tutlo — нічого (needs verification: WebSearch не підтримує фільтр за датою публікації).
+
+## [2026-11-12] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередній запис — 2026-11-05 (між 06.11 і 11.11 перевірок не було, тож вікно розширено до ~7 днів).
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий, "вічнозелений" або давніший за вікно контент: BUKI — osvita.ua, root-nation.com, education.ua, Trustpilot, вакансії DOU, PAP-звіт (вже залоговано); дослідження цін на репетиторів (+16% за рік) на forbes.ua датоване 12.10.2026 — поза вікном (source: [forbes.ua](https://forbes.ua/news/repetitori-v-ukrayini-podorozcali-na-16-za-rik-doslidzennia-12102026-42879)); недатований "EdTech AI Visibility Index", де BUKI названо №1 за частотою згадок AI-асистентами в категорії репетиторства — дату і методологію не вдалося перевірити (сайт недоступний із сесії), у лог як нову згадку не внесено (needs verification) (source: [agentmention.ai](https://agentmention.ai/blog/edtech-ai-visibility-index)); BUKI PL — спонсорований недатований огляд 7 сервісів на portaloswiatowy.pl (source: [portaloswiatowy.pl](https://www.portaloswiatowy.pl/materialy-partnerow/gdzie-znalezc-dobrego-korepetytora-angielskiego-7-serwisow-ktore-warto-porownac-28185.html)); Preply — Progress Report (01.10.2026), призначення від 14.10.2026, викуп акцій у співробітників (травень 2026), Series D (січень 2026) — усе поза вікном (source: [morningstar.com](https://www.morningstar.com/news/pr-newswire/20261001ne60529/preplys-first-annual-progress-report-finds-nearly-half-of-learners-struggle-to-apply-what-they-learn-in-real-life-despite-having-more-access-to-learning-than-ever-before), [yespress.io](https://yespress.io/preply.md)); Superprof — довідкові матеріали cfnews.net про M&A (вже в [superprof.md](superprof.md)) та відгуки Trustpilot (source: [cfnews.net](https://www.cfnews.net/L-actualite/International/Operations/M-A/Majoritaire/Superprof-decroche-la-meilleure-note-outre-Atlantique-729670)); Mathema — недатовані анонси безкоштовних курсів (source: [education.ua](https://www.education.ua/blog/courses/math/)); Tutlo — лише Trustpilot і вакансії pracuj.pl; AllRight, Znohub — нічого (needs verification: WebSearch не підтримує фільтр за датою публікації).
 
 ## Related pages
 
