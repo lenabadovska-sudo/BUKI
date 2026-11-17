@@ -691,3 +691,9 @@ Figma-дошка: додано нову колонку **2026-10-12** у всі�
 
 - Щоденний скан згадок BUKI/Preply/Superprof/Mathema/AllRight/Znohub/Tutlo: нових згадок не знайдено (0). Лист не надсилався.
 - `wiki/competitors/media-monitoring.md` — додано запис 2026-11-16, оновлено `Last updated`.
+
+## [2026-11-17] медіамоніторинг
+
+- Щоденний скан згадок BUKI/Preply/Superprof/Mathema/AllRight/Znohub/Tutlo: нових згадок не знайдено (0). Лист не надсилався.
+- Кандидат для перевірки: стаття osvita.ua про підготовку до НМТ з математики з рекламною позицією BUKI School — дату не підтверджено (needs verification).
+- `wiki/competitors/media-monitoring.md` — додано запис 2026-11-17, оновлено `Last updated`.
