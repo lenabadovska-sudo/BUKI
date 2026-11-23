@@ -4,7 +4,7 @@ Summary: Живий лог спостереження за Preply (global + по
 
 Sources: WebFetch/WebSearch перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-11-16
+Last updated: 2026-11-23
 
 ---
 
@@ -298,9 +298,31 @@ Preply веде класичну "unicorn-funding" PR-кампанію чере�
 
 ---
 
+## [2026-11-23 00:00] — доповнення з медіамоніторингу (не site-diff)
+
+Джерела: WebSearch — pioneerspost.com (17.11.2026), app.dealroom.co, preply.com/en/blog. Знахідку перенесено з [media-monitoring.md](media-monitoring.md) (запис 2026-11-23). Сайт `preply.com` напряму не перевірявся.
+
+### Що перевірено
+Окрема подія M&A/B2B, яку щотижневий запуск 2026-11-16 не зафіксував. Прайсинг і Black Friday у цьому записі не перевірялись.
+
+### Зміни з часу останньої перевірки
+- **Preply Business забирає бізнес Chatterbox (Велика Британія).** Chatterbox — лондонське соціальне підприємство з корпоративними мовними уроками, які ведуть тренери-біженці; заснований 2016 року, залучив трохи більше £2 млн; серед клієнтів — Unilever, PwC, British Red Cross. За формою це asset sale: клієнти й тренери переходять до Preply Business, а сам Chatterbox закривається. Перехід стартує 01.01.2027, погодились 85% тренерів. Засновниця Mursal Hedayat виходить з компанії й консультуватиме Preply щодо найму тренерів з недопредставлених груп. За її словами, Preply виграв конкурентний відбір завдяки пакету підтримки тренерів і фінансовій пропозиції. Суму угоди не розкрито (source: [pioneerspost.com, 17.11.2026](https://www.pioneerspost.com/news-views/20261117/chatterbox-founder-announces-exit-social-enterprise-strikes-preply-deal), [dealroom.co](https://app.dealroom.co/news/feed/preply-acquires-refugee-staffed-language-startup-chatterbox-as-edtech-consolidates)).
+- **Сам Preply подає це м'якше: "Chatterbox обрав Preply своїм preferred partner".** За даними пошуку, пост у блозі Preply датований 28.10.2026 (needs verification: дату поста напряму не перевірено) (source: [preply.com](https://preply.com/en/blog/about-preply/)).
+- Це перша зафіксована в цьому лозі угода Preply з ознаками M&A. Попередня фінансова подія — Series D ($150M / $1,2 млрд, січень 2026) (source: [aap.com.au](https://www.aap.com.au/aapreleases/cision20260121ae65576)).
+
+### Прайсинг
+Не перевірявся в цьому записі.
+
+### Інсайти
+- **Preply нарощує B2B не лише продуктом, а й купівлею готової клієнтської бази.** Asset sale без купівлі юрособи — дешевий спосіб отримати корпоративних клієнтів і перевірених тренерів (припущення).
+- **Preply позиціонується як платформа, яка "приймає" дрібніших гравців.** Медіа подають угоду як консолідацію EdTech під тиском AI (source: [dealroom.co](https://app.dealroom.co/news/feed/preply-acquires-refugee-staffed-language-startup-chatterbox-as-edtech-consolidates)). Для BUKI це сигнал, що невеликі мовні школи й B2B-провайдери в UA/PL теж можуть стати ціллю такого підходу (припущення, прямих ознак на ринках UA/PL поки немає).
+
+---
+
 ## Related pages
 
 - [competitors/index.md](index.md)
 - [superprof.md](superprof.md)
+- [media-monitoring.md](media-monitoring.md)
 - [../overview.md](../overview.md)
 - [../context.md](../context.md)

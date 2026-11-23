@@ -716,3 +716,7 @@ Figma-дошка: додано нову колонку **2026-10-12** у всі�
 
 - Щоденний скан згадок BUKI/Preply/Superprof/Mathema/AllRight/Znohub/Tutlo: знайдено 1 нову (раніше не залоговану) згадку — Preply × Chatterbox (asset sale до Preply Business, pioneerspost.com, 17.11.2026). Надіслано лист-дайджест.
 - `wiki/competitors/media-monitoring.md` — додано запис 2026-11-23, оновлено `Last updated`.
+
+## [2026-11-23] preply.md — угода з Chatterbox
+
+- `wiki/competitors/preply.md` — додано запис 2026-11-23 про угоду Preply Business × Chatterbox (asset sale, перехід з 01.01.2027); оновлено `Last updated`; додано посилання на `media-monitoring.md` у Related pages.
