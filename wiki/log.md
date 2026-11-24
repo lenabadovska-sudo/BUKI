@@ -738,3 +738,8 @@ Figma-дошка: додано нову колонку **2026-10-12** у всі�
 ## [2026-11-23] preply.md — угода з Chatterbox
 
 - `wiki/competitors/preply.md` — додано запис 2026-11-23 про угоду Preply Business × Chatterbox (asset sale, перехід з 01.01.2027); оновлено `Last updated`; додано посилання на `media-monitoring.md` у Related pages.
+
+## [2026-11-24] медіамоніторинг
+
+- Щоденний скан згадок BUKI/Preply/Superprof/Mathema/AllRight/Znohub/Tutlo: нових згадок не знайдено. Лист не надсилався.
+- `wiki/competitors/media-monitoring.md` — додано запис 2026-11-24, оновлено `Last updated`.
