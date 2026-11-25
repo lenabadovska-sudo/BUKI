@@ -743,3 +743,8 @@ Figma-дошка: додано нову колонку **2026-10-12** у всі�
 
 - Щоденний скан згадок BUKI/Preply/Superprof/Mathema/AllRight/Znohub/Tutlo: нових згадок не знайдено. Лист не надсилався.
 - `wiki/competitors/media-monitoring.md` — додано запис 2026-11-24, оновлено `Last updated`.
+
+## [2026-11-25] медіамоніторинг
+
+- Щоденний скан згадок BUKI/Preply/Superprof/Mathema/AllRight/Znohub/Tutlo: нових згадок не знайдено. Лист не надсилався.
+- `wiki/competitors/media-monitoring.md` — додано запис 2026-11-25, оновлено `Last updated`.
