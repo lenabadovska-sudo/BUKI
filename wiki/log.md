@@ -758,3 +758,8 @@ Figma-дошка: додано нову колонку **2026-10-12** у всі�
 
 - Щоденний скан згадок BUKI/Preply/Superprof/Mathema/AllRight/Znohub/Tutlo: нових згадок не знайдено. Лист не надсилався. Окремо зафіксовано 2 раніше не залоговані знахідки поза вікном (акція Tutlo "2 miesiące nauki gratis" 02–30.11.2026; стаття opolska360.pl без дати) — needs verification.
 - `wiki/competitors/media-monitoring.md` — додано запис 2026-11-27, оновлено `Last updated`, додано `tutlo.md` у Related pages.
+
+## [2026-11-28] медіамоніторинг
+
+- Щоденний скан згадок BUKI/Preply/Superprof/Mathema/AllRight/Znohub/Tutlo: нових згадок не знайдено. Лист не надсилався. Окремо зафіксовано 1 раніше не залоговану знахідку поза вікном (профайл CEO Preply у Fortune, 23.08.2026).
+- `wiki/competitors/media-monitoring.md` — додано запис 2026-11-28, оновлено `Last updated`.

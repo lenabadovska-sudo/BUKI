@@ -4,7 +4,7 @@ Summary: Щоденний моніторинг нових згадок BUKI, Pre
 
 Sources: WebSearch-перевірки, дати вказані в кожному записі.
 
-Last updated: 2026-11-27
+Last updated: 2026-11-28
 
 ---
 
@@ -488,6 +488,18 @@ BUKI — вакансії DOU, огляд osvita.ua, Trustpilot UA (квітен
 
 - **Tutlo — акція "2 MIESIĄCE NAUKI GRATIS"** (2 місяці навчання безкоштовно після базового оплаченого періоду курсу), діє з 02.11.2026 08:00 до 30.11.2026 23:59:59; організатор — Tutlo sp. z o.o.; варіанти з лімітом 39 уроків/міс. (без Tutlo Plus/Premium) і 54 уроки/міс. (з ними) — деталі умов зі сніпета, повний регламент відкрити не вдалося (домен заблоковано у сесії) (needs verification) (source: [Regulamin promocji Tutlo (hubspotusercontent)](https://4713259.fs1.hubspotusercontent-na1.net/hubfs/4713259/Regulaminy/Regulamin%20promocji%20Tutlo.pdf)). Варто додати в [tutlo.md](tutlo.md) при наступному `competitor-site-watch`.
 - **opolska360.pl — "BUKI, Preply, Superprof czy e-korepetycje? Którą platformę wybrać do różnych potrzeb?"** — порівняльна стаття польського регіонального порталу з BUKI у заголовку; дату публікації й тональність перевірити не вдалося (сайт недоступний із сесії) (needs verification) (source: [opolska360.pl](https://opolska360.pl/buki-preply-superprof-czy-e-korepetycje-ktora-platforme-wybrac-do-roznych-potrzeb)). Схожі SEO-порівняння (rankingedukacji.pl, tko.pl) описують BUKI як найдешевший для учня варіант без комісії з уроків (source: [rankingedukacji.pl](https://www.rankingedukacji.pl/blog/platformy-korepetycji-porownanie)).
+
+## [2026-11-28] — перевірка
+
+Перевірено WebSearch (укр., пол., англ. запити) наявність нових згадок брендів: BUKI, Preply, Superprof, Mathema, AllRight, Znohub (Україна) та BUKI, Preply, Superprof, Mathema, AllRight, Tutlo (Польща). Попередній запис — 2026-11-27.
+
+**Результат: нових датованих згадок за вікно не знайдено.**
+
+Усі знахідки — вже відомий, "вічнозелений" або давніший за вікно контент: BUKI — передруки дослідження Inweb × BUKI (forbes.ua 12.10.2026, novyny.live), glavcom.ua, espreso.tv, osvita.ua про НМТ — вже розібрано раніше (source: [forbes.ua](https://forbes.ua/news/repetitori-v-ukrayini-podorozcali-na-16-za-rik-doslidzennia-12102026-42879)); BUKI PL — Trustpilot (302 відгуки), PAP, спонсорований огляд portaloswiatowy.pl — вже залоговано (source: [trustpilot.com](https://ca.trustpilot.com/review/buki.org.pl), [pap.pl](https://www.pap.pl/mediaroom/rynek-korepetycji-w-polsce-2025-najpopularniejsze-platformy-skala-zjawiska-i-najczesciej)); BUKI School / BUKI Care — релевантних згадок не знайдено; Preply — офіційного анонсу Black Friday 2026 досі немає, у видачі лише купонні агрегатори та вторинні джерела станом на 14.10 і 11.11.2026 (source: [copycatcafe.com](https://copycatcafe.com/blog/preply-black-friday)); Progress Report (01.10.2026), раунд $150M (січень 2026) — вже в [preply.md](preply.md) (source: [morningstar.com](https://www.morningstar.com/news/pr-newswire/20261001ne60529/preplys-first-annual-progress-report-finds-nearly-half-of-learners-struggle-to-apply-what-they-learn-in-real-life-despite-having-more-access-to-learning-than-ever-before)); національні результати EY Entrepreneur Of The Year 2026 (фіналіст регіону New England — CEO Preply Kirill Bigai; нагороди вручають у листопаді на Strategic Growth Forum) у пошуку досі не з'явилися (needs verification) (source: [ey.com](https://www.ey.com/en_us/newsroom/2026/07/ey-us-announces-entrepreneur-of-the-year-2026-regional-award-winners)); Superprof — лише довідкові матеріали cfnews.net про M&A (вже в [superprof.md](superprof.md)), Semrush-дані superprof.pl і спонсорований огляд portaloswiatowy.pl (source: [cfnews.net](https://www.cfnews.net/L-actualite/International/Operations/M-A/Majoritaire/Superprof-fait-sa-lecon-en-Italie-704985)); Tutlo — Trustpilot (~4 100–4 200 відгуків, березень 2026), pracuj.pl, gowork.pl, papora.com — без нових дат (source: [trustpilot.com](https://au.trustpilot.com/review/tutlo.com)); Mathema — лише довідкові профілі (education.ua, happymonday.ua, fakty.com.ua 2024) (source: [education.ua](https://www.education.ua/courses/company/34063/)); AllRight — Trustpilot (відгук січня 2026), архівні Future Perfect / Forbes 2021, вакансії DOU (source: [trustpilot.com](https://ca.trustpilot.com/review/allright.io)); Znohub — лише архівні анонси пробного НМТ (source: [osvita.ua](https://osvita.ua/test/93968/)) (needs verification: WebSearch не підтримує фільтр за датою публікації).
+
+**Раніше не залоговане, але поза вікном (як нову згадку не внесено):**
+
+- **Fortune — профайл CEO Preply Kirill Bigai** ("CEO of $1.2 billion learning platform Preply: it all started with online search for English tutor"), 23.08.2026; історія заснування, роки без зарплати на старті (source: [fortune.com](https://fortune.com/2026/08/23/kirill-bigai-ceo-of-1-2-billion-learning-platform-preply-it-all-started-with-online-search-for-english-tutor/)). Тональність: позитивна для Preply (PR-профайл). Варто додати в [preply.md](preply.md) як приклад earned media конкурента в топ-медіа США.
 
 ## Related pages
 
